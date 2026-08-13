@@ -1,0 +1,993 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "For bundles of various utilities.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "niri tweaks",
+          "description": "A collection of scripts. Notably includes a script which allows tiling N windows before scrolling new ones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T14:17:37Z",
+            "owner": "heyoeyo",
+            "repo": "niri_tweaks",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piri",
+          "description": "A collection of plugins making use of niri IPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T02:20:50Z",
+            "owner": "Asthestarsfalll",
+            "repo": "piri",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-companion",
+          "description": "A toolkit that adds extra functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T20:51:52Z",
+            "owner": "dybdeskarphet",
+            "repo": "niri-companion",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-scripts",
+          "description": "A collection of scripts. Notably allows setting wallpaper per workspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-14T10:46:30Z",
+            "owner": "0xwal",
+            "repo": "niri-scripts",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Toolkits"
+    },
+    {
+      "description": "For utilities that assist in managing windows and workspaces.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "niri-sidebar",
+          "description": "Manage windows using a floating sidebar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-16T11:51:27Z",
+            "owner": "Vigintillionn",
+            "repo": "niri-sidebar",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-scratchpad",
+          "description": "Scratchpad support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T08:40:56Z",
+            "owner": "gvolpe",
+            "repo": "niri-scratchpad",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-float-sticky",
+          "description": "A utility to make floating windows visible across all workspaces — similar to \"sticky windows\" in other compositors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-12T08:30:09Z",
+            "owner": "probeldev",
+            "repo": "niri-float-sticky",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miri",
+          "description": "A niri extension adding per-workspace tiling layouts, such as Master Stack, similar to hyprland or mangowm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-21T00:30:00Z",
+            "owner": "MintyDoggo",
+            "repo": "miri",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-scratchpad-rs",
+          "description": "Dynamic scratchpads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-09T22:17:22Z",
+            "owner": "argosnothing",
+            "repo": "niri-scratchpad-rs",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ndrop",
+          "description": "Emulate tdrop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-24T23:29:56Z",
+            "owner": "Schweber",
+            "repo": "ndrop",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oniri",
+          "description": "A tool that automatically maximizes the only window in a workspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T20:49:45Z",
+            "owner": "Antiz96",
+            "repo": "oniri",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nfsm",
+          "description": "Fullscreen manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T11:45:36Z",
+            "owner": "gvolpe",
+            "repo": "nfsm",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nsticky",
+          "description": "A utility to make windows visible across all workspaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:49:30Z",
+            "owner": "lonerOrz",
+            "repo": "nsticky",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nirimap",
+          "description": "A minimal workspace minimap overlay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T15:24:34Z",
+            "owner": "alexandergknoll",
+            "repo": "nirimap",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-ror",
+          "description": "Focuses an app if it's open, or starts a new instance if not. With advanced window matching and multi-instance cycling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-08T10:49:20Z",
+            "owner": "boomskats",
+            "repo": "niri-ror",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Window and Workspace Management"
+    },
+    {
+      "description": "For saving, restoring, and managing user sessions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "niri-session-manager",
+          "description": "Automatically save and restore windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-25T13:47:02Z",
+            "owner": "MTeaHead",
+            "repo": "niri-session-manager",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nirinit",
+          "description": "Session manager that automatically saves and restores your window layout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-25T05:03:45Z",
+            "owner": "amaanq",
+            "repo": "nirinit",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swaytreesave",
+          "description": "CLI to save and load your compositors tree/layout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-05T08:06:01Z",
+            "owner": "fabienjuif",
+            "repo": "swaytreesave",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Session Management"
+    },
+    {
+      "description": "For managing wallpapers and other visual elements.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hyprlax",
+          "description": "Smooth parallax wallpaper daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T14:46:04Z",
+            "owner": "sandwichfarm",
+            "repo": "hyprlax",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wayvid",
+          "description": "A dynamic video wallpaper engine for Wayland compositors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T02:09:12Z",
+            "owner": "YangYuS8",
+            "repo": "lwe",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pandora",
+          "description": "Parallax-scrolling wallpaper daemon for Wayland.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-30T02:40:52Z",
+            "owner": "PandorasFox",
+            "repo": "pandora",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Wallpapers and Visuals"
+    },
+    {
+      "description": "For tools that integrate niri with other system components or automate tasks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anyrun",
+          "description": "A Wayland native krunner-like runner, made with customizability in mind. Provides niri-focus plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-09T14:22:59Z",
+            "owner": "anyrun-org",
+            "repo": "anyrun",
+            "stars": 1286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stasis",
+          "description": "A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T17:02:31Z",
+            "owner": "saltnpepper97",
+            "repo": "stasis",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIO-Niri",
+          "description": "Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T22:00:56Z",
+            "owner": "Zhaith-Izaliel",
+            "repo": "iio-niri",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nirimon",
+          "description": "A TUI monitor configuration tool with visual layout, drag-and-drop, and profile management (profile schema compliant with hyprmon).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-15T20:21:24Z",
+            "owner": "stepbrobd",
+            "repo": "nirimon",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "system76-scheduler-niri",
+          "description": "A simple daemon to update the foreground process of system76-scheduler based on the focused window.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-04-25T17:57:30Z",
+            "owner": "Kirottu",
+            "repo": "system76-scheduler-niri",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-niri-nav",
+          "description": "Seamless navigation between niri windows and (neo)vim splits with the same key bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-19T10:25:04Z",
+            "owner": "andergrim",
+            "repo": "vim-niri-nav",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NASW",
+          "description": "Automatically switch audio based on active windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-08T18:02:56Z",
+            "owner": "ledati16",
+            "repo": "pwsw",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nirilayout",
+          "description": "Quickly switch output configuration between different layouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-09T16:59:32Z",
+            "owner": "calico32",
+            "repo": "nirilayout",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kunai",
+          "description": "Automatically switch keyboard layouts based on which physical keyboard is being used.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:24:41Z",
+            "owner": "mikkurogue",
+            "repo": "kunai",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-screensaver",
+          "description": "Idle-aware terminal screensaver for niri, driven by TerminalTextEffects, with an optional Noctalia plugin for IdleService integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T01:34:33Z",
+            "owner": "jfreed-dev",
+            "repo": "niri-screensaver",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niriSKL.nvim",
+          "description": "A Neovim plugin that maintains your latin keyboard layout of choice for NORMAL mode and restores the layout you had when in INSERT mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-27T15:38:45Z",
+            "owner": "MahouShoujoMivutilde",
+            "repo": "niriSKL.nvim",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "System Integration and Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nirimod",
+          "description": "A visual, interactive configuration interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T18:04:58Z",
+            "owner": "srinivasr",
+            "repo": "nirimod",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-settings",
+          "description": "Basic configuration GUI for niri config.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T17:08:59Z",
+            "owner": "stefonarch",
+            "repo": "niri-settings",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-screen-time",
+          "description": "A utility that collects information about how much time you spend in each application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T09:22:55Z",
+            "owner": "probeldev",
+            "repo": "niri-screen-time",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arbtt-capture-wl",
+          "description": "Time tracker utility arbtt ported to Wayland.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-01T16:22:25Z",
+            "owner": "franzos",
+            "repo": "arbtt-capture-wl",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-cwd",
+          "description": "A program to print the focused window's working directory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-29T22:07:40Z",
+            "owner": "nouritsu",
+            "repo": "niri-cwd",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nirimation",
+          "description": "A host for custom shaders to be used as animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T03:05:27Z",
+            "owner": "Xansidev",
+            "repo": "nirimation",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shaders",
+          "description": "A collection of custom shaders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2026-07-23T13:02:04Z",
+            "owner": "liixini",
+            "repo": "shaders",
+            "stars": 205
+          }
+        }
+      ],
+      "title": "Custom Shaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Waybar",
+          "description": "Highly customizable Wayland bar based on GTK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T21:07:00Z",
+            "owner": "Alexays",
+            "repo": "Waybar",
+            "stars": 11772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ironbar",
+          "description": "A customisable Wayland GTK bar written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T17:05:38Z",
+            "owner": "JakeStanger",
+            "repo": "ironbar",
+            "stars": 1432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ashell",
+          "description": "A ready to go Wayland status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:26:48Z",
+            "owner": "MalpenZibo",
+            "repo": "ashell",
+            "stars": 1064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ignis",
+          "description": "A widget framework for building desktop shells, written and configurable in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:04:37Z",
+            "owner": "ignis-sh",
+            "repo": "ignis",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vibepanel",
+          "description": "A GTK4 panel for Wayland with integrated notifications, OSD, and quick settings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:05:56Z",
+            "owner": "prankstr",
+            "repo": "vibepanel",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Niri Taskbar",
+          "description": "Provides a Waybar taskbar module for niri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-04T02:37:12Z",
+            "owner": "LawnGnome",
+            "repo": "niri-taskbar",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i3bar-river",
+          "description": "A port of i3bar for Wayland compositors, to be used with something like i3status-rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-19T15:57:27Z",
+            "owner": "MaxVerevkin",
+            "repo": "i3bar-river",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bar-rs",
+          "description": "A simple status bar, written using iced-rs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T17:45:16Z",
+            "owner": "faervan",
+            "repo": "bar-rs",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri_window_buttons",
+          "description": "A Waybar module for displaying and managing traditional window buttons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-07T18:48:33Z",
+            "owner": "adelmonte",
+            "repo": "niri_window_buttons",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waybar-niri-windows",
+          "description": "A module for Waybar that displays a focus indicator for the current workspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-02T19:24:47Z",
+            "owner": "calico32",
+            "repo": "waybar-niri-windows",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eww-niri-workspaces",
+          "description": "A Rust binary that outputs workspace information from niri-ipc to be consumed by eww.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-25T14:47:30Z",
+            "owner": "druskus20",
+            "repo": "eww-niri-workspaces",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri-ribbon",
+          "description": "A viewport mini-map widget for the Noctalia shell that tracks off-screen windows in real-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T07:20:06Z",
+            "owner": "ews",
+            "repo": "noctalia-niri-ribbon",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Bars and Widgets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Noctalia",
+          "description": "A sleek and minimal desktop shell built with Quickshell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:44:01Z",
+            "owner": "noctalia-dev",
+            "repo": "noctalia",
+            "stars": 9475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DankMaterialShell",
+          "description": "Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-08-13T03:30:12Z",
+            "owner": "AvengeMedia",
+            "repo": "DankMaterialShell",
+            "stars": 7574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iNiR",
+          "description": "end-4's quickshell config modified to work with niri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-08-12T00:30:41Z",
+            "owner": "snowarch",
+            "repo": "iNiR",
+            "stars": 1403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exo",
+          "description": "A Material 3 inspired desktop shell created with Ignis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-16T23:43:01Z",
+            "owner": "debuggyo",
+            "repo": "Exo",
+            "stars": 681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delta Shell",
+          "description": "A desktop shell based on AGS with many features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T18:15:36Z",
+            "owner": "Sinomor",
+            "repo": "delta-shell",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPUi Shell",
+          "description": "A GPUI based shell written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T22:09:09Z",
+            "owner": "andre-brandao",
+            "repo": "gpui-shell",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qml-niri",
+          "description": "A QML plugin for interacting with niri via its IPC protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T11:54:02Z",
+            "owner": "imiric",
+            "repo": "qml-niri",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "desktop-shell",
+          "description": "Custom AGS shell for Wayland compositors supporting wayland-layer-shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-07-08T05:32:00Z",
+            "owner": "hashankur",
+            "repo": "desktop-shell",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IgnisNiriShell",
+          "description": "An Ignis based shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T12:51:55Z",
+            "owner": "lost-melody",
+            "repo": "IgnisNiriShell",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glimpse",
+          "description": "A niri-first Wayland desktop shell toolkit with a panel, wallpaper, lock screen, night light, and idle management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-12T19:50:30Z",
+            "owner": "alex-oleshkevich",
+            "repo": "glimpse",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Custom Shells"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "niri on LXQt",
+          "description": "LXQt is a lightweight Qt-based desktop environment that allows setting niri as compositor, while its modules can also be used standalone in .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-17T17:09:31Z",
+            "owner": "lxqt",
+            "repo": "lxqt",
+            "stars": 1857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri on Cosmic",
+          "description": "A Cosmic extension that allows niri as a session option, allowing you to use niri with the Cosmic desktop environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-02T11:34:17Z",
+            "owner": "Drakulix",
+            "repo": "cosmic-ext-extra-sessions",
+            "stars": 181
+          }
+        }
+      ],
+      "title": "DE Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Setup Showcase",
+          "description": "A showcase of niri setups, where users can share their configurations and get inspiration from others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:29:55Z",
+            "owner": "niri-wm",
+            "repo": "niri",
+            "stars": 26855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OOTB setups",
+          "description": "A collection of out-of-the-box niri configurations that can be easily installed to get a fully functional setup quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-10T08:55:16Z",
+            "owner": "niri-wm",
+            "repo": "awesome-niri",
+            "stars": 1393
+          }
+        }
+      ],
+      "title": "Rices and OOTB Setups"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:17.327Z",
+    "original_repository": "niri-wm/awesome-niri",
+    "original_repository_sha": "a8cc5bde779135e4befe7d940d6b48b272c67421",
+    "enhanced_repository": "enhansome/enhansome-niri",
+    "enhanced_repository_description": null,
+    "title": "Awesome niri with stars"
+  }
+}
