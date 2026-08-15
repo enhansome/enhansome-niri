@@ -81,7 +81,7 @@
             "last_commit": "2026-05-16T11:51:27Z",
             "owner": "Vigintillionn",
             "repo": "niri-sidebar",
-            "stars": 170
+            "stars": 171
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-04-09T22:17:22Z",
             "owner": "argosnothing",
             "repo": "niri-scratchpad-rs",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-03-25T05:03:45Z",
             "owner": "amaanq",
             "repo": "nirinit",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2026-08-14T08:13:07Z",
             "owner": "anyrun-org",
             "repo": "anyrun",
-            "stars": 1287
+            "stars": 1288
           }
         },
         {
@@ -348,7 +348,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:21:18Z",
+            "last_commit": "2026-08-15T12:55:00Z",
             "owner": "saltnpepper97",
             "repo": "stasis",
             "stars": 173
@@ -446,7 +446,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T18:24:41Z",
+            "last_commit": "2026-08-15T16:03:28Z",
             "owner": "mikkurogue",
             "repo": "kunai",
             "stars": 5
@@ -497,7 +497,7 @@
             "last_commit": "2026-08-02T18:04:58Z",
             "owner": "srinivasr",
             "repo": "nirimod",
-            "stars": 372
+            "stars": 374
           }
         },
         {
@@ -587,7 +587,7 @@
             "last_commit": "2026-07-23T13:02:04Z",
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 207
+            "stars": 208
           }
         }
       ],
@@ -604,10 +604,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T12:24:41Z",
+            "last_commit": "2026-08-14T21:34:07Z",
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11785
+            "stars": 11794
           }
         },
         {
@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:16:29Z",
+            "last_commit": "2026-08-14T21:43:41Z",
             "owner": "ignis-sh",
             "repo": "ignis",
             "stars": 677
@@ -660,7 +660,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:19:03Z",
+            "last_commit": "2026-08-15T05:44:53Z",
             "owner": "prankstr",
             "repo": "vibepanel",
             "stars": 158
@@ -733,7 +733,7 @@
             "last_commit": "2026-06-02T19:24:47Z",
             "owner": "calico32",
             "repo": "waybar-niri-windows",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -778,10 +778,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T14:18:49Z",
+            "last_commit": "2026-08-15T16:27:52Z",
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 9512
+            "stars": 9531
           }
         },
         {
@@ -792,10 +792,10 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-14T00:38:38Z",
+            "last_commit": "2026-08-15T16:32:58Z",
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7588
+            "stars": 7601
           }
         },
         {
@@ -809,7 +809,7 @@
             "last_commit": "2026-08-12T00:30:41Z",
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1411
+            "stars": 1417
           }
         },
         {
@@ -823,7 +823,7 @@
             "last_commit": "2026-01-16T23:43:01Z",
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 681
+            "stars": 683
           }
         },
         {
@@ -851,7 +851,7 @@
             "last_commit": "2026-08-07T22:09:09Z",
             "owner": "andre-brandao",
             "repo": "gpui-shell",
-            "stars": 114
+            "stars": 116
           }
         },
         {
@@ -961,7 +961,7 @@
             "last_commit": "2026-08-14T12:29:34Z",
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 26898
+            "stars": 26920
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2026-08-10T08:55:16Z",
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1395
+            "stars": 1396
           }
         }
       ],
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:44:56.863Z",
+    "last_updated": "2026-08-15T17:12:30.122Z",
     "original_repository": "niri-wm/awesome-niri",
     "original_repository_sha": "a8cc5bde779135e4befe7d940d6b48b272c67421",
     "enhanced_repository": "enhansome/enhansome-niri",
