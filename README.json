@@ -81,7 +81,7 @@
             "last_commit": "2026-05-16T11:51:27Z",
             "owner": "Vigintillionn",
             "repo": "niri-sidebar",
-            "stars": 171
+            "stars": 173
           }
         },
         {
@@ -100,6 +100,20 @@
         },
         {
           "node_type": "item",
+          "title": "miri",
+          "description": "A niri extension adding per-workspace tiling layouts, such as Master Stack, similar to hyprland or mangowm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-21T00:30:00Z",
+            "owner": "MintyDoggo",
+            "repo": "miri",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
           "title": "niri-float-sticky",
           "description": "A utility to make floating windows visible across all workspaces — similar to \"sticky windows\" in other compositors.",
           "children": [],
@@ -110,20 +124,6 @@
             "owner": "probeldev",
             "repo": "niri-float-sticky",
             "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "miri",
-          "description": "A niri extension adding per-workspace tiling layouts, such as Master Stack, similar to hyprland or mangowm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-21T00:30:00Z",
-            "owner": "MintyDoggo",
-            "repo": "miri",
-            "stars": 100
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-05-23T11:45:36Z",
             "owner": "gvolpe",
             "repo": "nfsm",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-07-12T14:46:04Z",
             "owner": "sandwichfarm",
             "repo": "hyprlax",
-            "stars": 212
+            "stars": 213
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2026-08-14T08:13:07Z",
             "owner": "anyrun-org",
             "repo": "anyrun",
-            "stars": 1288
+            "stars": 1289
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-15T12:55:00Z",
             "owner": "saltnpepper97",
             "repo": "stasis",
-            "stars": 173
+            "stars": 174
           }
         },
         {
@@ -362,7 +362,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-21T22:00:56Z",
+            "last_commit": "2026-08-16T11:59:24Z",
             "owner": "Zhaith-Izaliel",
             "repo": "iio-niri",
             "stars": 58
@@ -573,7 +573,7 @@
             "last_commit": "2026-07-20T03:05:27Z",
             "owner": "Xansidev",
             "repo": "nirimation",
-            "stars": 221
+            "stars": 223
           }
         },
         {
@@ -587,7 +587,7 @@
             "last_commit": "2026-07-23T13:02:04Z",
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 208
+            "stars": 209
           }
         }
       ],
@@ -607,7 +607,7 @@
             "last_commit": "2026-08-14T21:34:07Z",
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11794
+            "stars": 11809
           }
         },
         {
@@ -635,7 +635,7 @@
             "last_commit": "2026-08-14T07:19:55Z",
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1065
+            "stars": 1067
           }
         },
         {
@@ -649,7 +649,7 @@
             "last_commit": "2026-08-14T21:43:41Z",
             "owner": "ignis-sh",
             "repo": "ignis",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-08-15T05:44:53Z",
             "owner": "prankstr",
             "repo": "vibepanel",
-            "stars": 158
+            "stars": 160
           }
         },
         {
@@ -778,10 +778,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T16:27:52Z",
+            "last_commit": "2026-08-16T15:52:44Z",
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 9531
+            "stars": 9562
           }
         },
         {
@@ -792,10 +792,10 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-15T16:32:58Z",
+            "last_commit": "2026-08-16T15:37:00Z",
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7601
+            "stars": 7614
           }
         },
         {
@@ -809,7 +809,7 @@
             "last_commit": "2026-08-12T00:30:41Z",
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1417
+            "stars": 1423
           }
         },
         {
@@ -851,7 +851,7 @@
             "last_commit": "2026-08-07T22:09:09Z",
             "owner": "andre-brandao",
             "repo": "gpui-shell",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2026-05-17T17:09:31Z",
             "owner": "lxqt",
             "repo": "lxqt",
-            "stars": 1856
+            "stars": 1859
           }
         },
         {
@@ -961,7 +961,7 @@
             "last_commit": "2026-08-14T12:29:34Z",
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 26920
+            "stars": 26947
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2026-08-10T08:55:16Z",
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1396
+            "stars": 1405
           }
         }
       ],
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:12:30.122Z",
+    "last_updated": "2026-08-16T17:12:03.114Z",
     "original_repository": "niri-wm/awesome-niri",
     "original_repository_sha": "a8cc5bde779135e4befe7d940d6b48b272c67421",
     "enhanced_repository": "enhansome/enhansome-niri",
