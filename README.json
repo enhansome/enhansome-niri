@@ -1,566 +1,610 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "niri tweaks",
+              "description": "A collection of scripts. Notably includes a script which allows tiling N windows before scrolling new ones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1055667441,
+                "language": "Python",
+                "last_commit": "2026-08-04T14:17:37Z",
+                "owner": "heyoeyo",
+                "repo": "niri_tweaks",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "piri",
+              "description": "A collection of plugins making use of niri IPC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1125215891,
+                "language": "Rust",
+                "last_commit": "2026-08-07T02:20:50Z",
+                "owner": "Asthestarsfalll",
+                "repo": "piri",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-companion",
+              "description": "A toolkit that adds extra functionality.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1054418728,
+                "language": "Python",
+                "last_commit": "2026-06-01T20:51:52Z",
+                "owner": "dybdeskarphet",
+                "repo": "niri-companion",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-scripts",
+              "description": "A collection of scripts. Notably allows setting wallpaper per workspace.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1022071074,
+                "language": "Rust",
+                "last_commit": "2026-01-14T10:46:30Z",
+                "owner": "0xwal",
+                "repo": "niri-scripts",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "For bundles of various utilities.",
+          "node_type": "group",
+          "title": "Toolkits"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "niri-sidebar",
+              "description": "Manage windows using a floating sidebar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153049523,
+                "language": "Rust",
+                "last_commit": "2026-05-16T11:51:27Z",
+                "owner": "Vigintillionn",
+                "repo": "niri-sidebar",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-scratchpad",
+              "description": "Scratchpad support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1056314853,
+                "language": "Python",
+                "last_commit": "2026-03-22T08:40:56Z",
+                "owner": "gvolpe",
+                "repo": "niri-scratchpad",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "miri",
+              "description": "A niri extension adding per-workspace tiling layouts, such as Master Stack, similar to hyprland or mangowm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158300712,
+                "language": "Rust",
+                "last_commit": "2026-06-21T00:30:00Z",
+                "owner": "MintyDoggo",
+                "repo": "miri",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-float-sticky",
+              "description": "A utility to make floating windows visible across all workspaces — similar to \"sticky windows\" in other compositors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 961471023,
+                "language": "Go",
+                "last_commit": "2026-05-12T08:30:09Z",
+                "owner": "probeldev",
+                "repo": "niri-float-sticky",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-scratchpad-rs",
+              "description": "Dynamic scratchpads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103427762,
+                "language": "Rust",
+                "last_commit": "2026-04-09T22:17:22Z",
+                "owner": "argosnothing",
+                "repo": "niri-scratchpad-rs",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ndrop",
+              "description": "Emulate tdrop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 859267421,
+                "language": "Shell",
+                "last_commit": "2026-01-24T23:29:56Z",
+                "owner": "Schweber",
+                "repo": "ndrop",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oniri",
+              "description": "A tool that automatically maximizes the only window in a workspace.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1183707972,
+                "language": "Rust",
+                "last_commit": "2026-08-18T20:08:27Z",
+                "owner": "Antiz96",
+                "repo": "oniri",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nfsm",
+              "description": "Fullscreen manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1073158578,
+                "language": "Python",
+                "last_commit": "2026-05-23T11:45:36Z",
+                "owner": "gvolpe",
+                "repo": "nfsm",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nsticky",
+              "description": "A utility to make windows visible across all workspaces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1035552892,
+                "language": "Rust",
+                "last_commit": "2026-08-19T00:36:59Z",
+                "owner": "lonerOrz",
+                "repo": "nsticky",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nirimap",
+              "description": "A minimal workspace minimap overlay.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1108821174,
+                "language": "Rust",
+                "last_commit": "2026-08-05T15:24:34Z",
+                "owner": "alexandergknoll",
+                "repo": "nirimap",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-ror",
+              "description": "Focuses an app if it's open, or starts a new instance if not. With advanced window matching and multi-instance cycling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1117564440,
+                "language": "Shell",
+                "last_commit": "2026-01-08T10:49:20Z",
+                "owner": "boomskats",
+                "repo": "niri-ror",
+                "stars": 12
+              }
+            }
+          ],
+          "description": "For utilities that assist in managing windows and workspaces.",
+          "node_type": "group",
+          "title": "Window and Workspace Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "niri-session-manager",
+              "description": "Automatically save and restore windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 921028324,
+                "language": "Rust",
+                "last_commit": "2025-07-25T13:47:02Z",
+                "owner": "MTeaHead",
+                "repo": "niri-session-manager",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nirinit",
+              "description": "Session manager that automatically saves and restores your window layout.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1068367790,
+                "language": "Rust",
+                "last_commit": "2026-03-25T05:03:45Z",
+                "owner": "amaanq",
+                "repo": "nirinit",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swaytreesave",
+              "description": "CLI to save and load your compositors tree/layout.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 976732609,
+                "language": "Rust",
+                "last_commit": "2026-07-05T08:06:01Z",
+                "owner": "fabienjuif",
+                "repo": "swaytreesave",
+                "stars": 17
+              }
+            }
+          ],
+          "description": "For saving, restoring, and managing user sessions.",
+          "node_type": "group",
+          "title": "Session Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hyprlax",
+              "description": "Smooth parallax wallpaper daemon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1055632659,
+                "language": "C",
+                "last_commit": "2026-07-12T14:46:04Z",
+                "owner": "sandwichfarm",
+                "repo": "hyprlax",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wayvid",
+              "description": "A dynamic video wallpaper engine for Wayland compositors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1079609826,
+                "language": "Rust",
+                "last_commit": "2026-07-20T02:09:12Z",
+                "owner": "YangYuS8",
+                "repo": "lwe",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pandora",
+              "description": "Parallax-scrolling wallpaper daemon for Wayland.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1030076113,
+                "language": "Rust",
+                "last_commit": "2025-09-30T02:40:52Z",
+                "owner": "PandorasFox",
+                "repo": "pandora",
+                "stars": 48
+              }
+            }
+          ],
+          "description": "For managing wallpapers and other visual elements.",
+          "node_type": "group",
+          "title": "Wallpapers and Visuals"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Anyrun",
+              "description": "A Wayland native krunner-like runner, made with customizability in mind. Provides niri-focus plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582422837,
+                "language": "Rust",
+                "last_commit": "2026-08-14T08:13:07Z",
+                "owner": "anyrun-org",
+                "repo": "anyrun",
+                "stars": 1291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stasis",
+              "description": "A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1063249416,
+                "language": "Rust",
+                "last_commit": "2026-08-15T12:55:00Z",
+                "owner": "saltnpepper97",
+                "repo": "stasis",
+                "stars": 174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IIO-Niri",
+              "description": "Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1032960872,
+                "language": "Rust",
+                "last_commit": "2026-08-16T11:59:24Z",
+                "owner": "Zhaith-Izaliel",
+                "repo": "iio-niri",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nirimon",
+              "description": "A TUI monitor configuration tool with visual layout, drag-and-drop, and profile management (profile schema compliant with hyprmon).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1235944977,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:26:52Z",
+                "owner": "stepbrobd",
+                "repo": "nirimon",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "system76-scheduler-niri",
+              "description": "A simple daemon to update the foreground process of system76-scheduler based on the focused window.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1030755728,
+                "language": "Nix",
+                "last_commit": "2026-04-25T17:57:30Z",
+                "owner": "Kirottu",
+                "repo": "system76-scheduler-niri",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vim-niri-nav",
+              "description": "Seamless navigation between niri windows and (neo)vim splits with the same key bindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988307343,
+                "language": "Vim Script",
+                "last_commit": "2026-06-19T10:25:04Z",
+                "owner": "andergrim",
+                "repo": "vim-niri-nav",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NASW",
+              "description": "Automatically switch audio based on active windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1111308786,
+                "language": "Rust",
+                "last_commit": "2026-03-08T18:02:56Z",
+                "owner": "ledati16",
+                "repo": "pwsw",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nirilayout",
+              "description": "Quickly switch output configuration between different layouts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1131354763,
+                "language": "Go",
+                "last_commit": "2026-06-09T16:59:32Z",
+                "owner": "calico32",
+                "repo": "nirilayout",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kunai",
+              "description": "Automatically switch keyboard layouts based on which physical keyboard is being used.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141294103,
+                "language": "Rust",
+                "last_commit": "2026-08-15T16:03:28Z",
+                "owner": "mikkurogue",
+                "repo": "kunai",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-screensaver",
+              "description": "Idle-aware terminal screensaver for niri, driven by TerminalTextEffects, with an optional Noctalia plugin for IdleService integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1232988988,
+                "language": "Shell",
+                "last_commit": "2026-08-07T01:34:33Z",
+                "owner": "jfreed-dev",
+                "repo": "niri-screensaver",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niriSKL.nvim",
+              "description": "A Neovim plugin that maintains your latin keyboard layout of choice for NORMAL mode and restores the layout you had when in INSERT mode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1265357528,
+                "language": "Lua",
+                "last_commit": "2026-06-27T15:38:45Z",
+                "owner": "MahouShoujoMivutilde",
+                "repo": "niriSKL.nvim",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "For tools that integrate niri with other system components or automate tasks.",
+          "node_type": "group",
+          "title": "System Integration and Automation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nirimod",
+              "description": "A visual, interactive configuration interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209762227,
+                "language": "Python",
+                "last_commit": "2026-08-02T18:04:58Z",
+                "owner": "srinivasr",
+                "repo": "nirimod",
+                "stars": 373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-settings",
+              "description": "Basic configuration GUI for niri config.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1102334650,
+                "language": "Python",
+                "last_commit": "2026-07-18T17:08:59Z",
+                "owner": "stefonarch",
+                "repo": "niri-settings",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-screen-time",
+              "description": "A utility that collects information about how much time you spend in each application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 986978647,
+                "language": "Go",
+                "last_commit": "2026-07-28T09:22:55Z",
+                "owner": "probeldev",
+                "repo": "niri-screen-time",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arbtt-capture-wl",
+              "description": "Time tracker utility arbtt ported to Wayland.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1139214883,
+                "language": "Rust",
+                "last_commit": "2026-07-01T16:22:25Z",
+                "owner": "franzos",
+                "repo": "arbtt-capture-wl",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niri-cwd",
+              "description": "A program to print the focused window's working directory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194124718,
+                "language": "Rust",
+                "last_commit": "2026-03-29T22:07:40Z",
+                "owner": "nouritsu",
+                "repo": "niri-cwd",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "For bundles of various utilities.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "niri tweaks",
-          "description": "A collection of scripts. Notably includes a script which allows tiling N windows before scrolling new ones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T14:17:37Z",
-            "owner": "heyoeyo",
-            "repo": "niri_tweaks",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "piri",
-          "description": "A collection of plugins making use of niri IPC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-07T02:20:50Z",
-            "owner": "Asthestarsfalll",
-            "repo": "piri",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-companion",
-          "description": "A toolkit that adds extra functionality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T20:51:52Z",
-            "owner": "dybdeskarphet",
-            "repo": "niri-companion",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-scripts",
-          "description": "A collection of scripts. Notably allows setting wallpaper per workspace.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-14T10:46:30Z",
-            "owner": "0xwal",
-            "repo": "niri-scripts",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Toolkits"
-    },
-    {
-      "description": "For utilities that assist in managing windows and workspaces.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "niri-sidebar",
-          "description": "Manage windows using a floating sidebar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-16T11:51:27Z",
-            "owner": "Vigintillionn",
-            "repo": "niri-sidebar",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-scratchpad",
-          "description": "Scratchpad support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-22T08:40:56Z",
-            "owner": "gvolpe",
-            "repo": "niri-scratchpad",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "miri",
-          "description": "A niri extension adding per-workspace tiling layouts, such as Master Stack, similar to hyprland or mangowm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-21T00:30:00Z",
-            "owner": "MintyDoggo",
-            "repo": "miri",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-float-sticky",
-          "description": "A utility to make floating windows visible across all workspaces — similar to \"sticky windows\" in other compositors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-12T08:30:09Z",
-            "owner": "probeldev",
-            "repo": "niri-float-sticky",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-scratchpad-rs",
-          "description": "Dynamic scratchpads.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-09T22:17:22Z",
-            "owner": "argosnothing",
-            "repo": "niri-scratchpad-rs",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ndrop",
-          "description": "Emulate tdrop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-01-24T23:29:56Z",
-            "owner": "Schweber",
-            "repo": "ndrop",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oniri",
-          "description": "A tool that automatically maximizes the only window in a workspace.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T20:42:19Z",
-            "owner": "Antiz96",
-            "repo": "oniri",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nfsm",
-          "description": "Fullscreen manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-23T11:45:36Z",
-            "owner": "gvolpe",
-            "repo": "nfsm",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nsticky",
-          "description": "A utility to make windows visible across all workspaces.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T23:49:30Z",
-            "owner": "lonerOrz",
-            "repo": "nsticky",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nirimap",
-          "description": "A minimal workspace minimap overlay.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-05T15:24:34Z",
-            "owner": "alexandergknoll",
-            "repo": "nirimap",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-ror",
-          "description": "Focuses an app if it's open, or starts a new instance if not. With advanced window matching and multi-instance cycling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-01-08T10:49:20Z",
-            "owner": "boomskats",
-            "repo": "niri-ror",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Window and Workspace Management"
-    },
-    {
-      "description": "For saving, restoring, and managing user sessions.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "niri-session-manager",
-          "description": "Automatically save and restore windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-07-25T13:47:02Z",
-            "owner": "MTeaHead",
-            "repo": "niri-session-manager",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nirinit",
-          "description": "Session manager that automatically saves and restores your window layout.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-25T05:03:45Z",
-            "owner": "amaanq",
-            "repo": "nirinit",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "swaytreesave",
-          "description": "CLI to save and load your compositors tree/layout.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-05T08:06:01Z",
-            "owner": "fabienjuif",
-            "repo": "swaytreesave",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Session Management"
-    },
-    {
-      "description": "For managing wallpapers and other visual elements.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "hyprlax",
-          "description": "Smooth parallax wallpaper daemon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-12T14:46:04Z",
-            "owner": "sandwichfarm",
-            "repo": "hyprlax",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wayvid",
-          "description": "A dynamic video wallpaper engine for Wayland compositors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-20T02:09:12Z",
-            "owner": "YangYuS8",
-            "repo": "lwe",
-            "stars": 131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pandora",
-          "description": "Parallax-scrolling wallpaper daemon for Wayland.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-09-30T02:40:52Z",
-            "owner": "PandorasFox",
-            "repo": "pandora",
-            "stars": 48
-          }
-        }
-      ],
-      "title": "Wallpapers and Visuals"
-    },
-    {
-      "description": "For tools that integrate niri with other system components or automate tasks.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Anyrun",
-          "description": "A Wayland native krunner-like runner, made with customizability in mind. Provides niri-focus plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T08:13:07Z",
-            "owner": "anyrun-org",
-            "repo": "anyrun",
-            "stars": 1290
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stasis",
-          "description": "A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-15T12:55:00Z",
-            "owner": "saltnpepper97",
-            "repo": "stasis",
-            "stars": 174
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IIO-Niri",
-          "description": "Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T11:59:24Z",
-            "owner": "Zhaith-Izaliel",
-            "repo": "iio-niri",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nirimon",
-          "description": "A TUI monitor configuration tool with visual layout, drag-and-drop, and profile management (profile schema compliant with hyprmon).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:16:58Z",
-            "owner": "stepbrobd",
-            "repo": "nirimon",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "system76-scheduler-niri",
-          "description": "A simple daemon to update the foreground process of system76-scheduler based on the focused window.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nix",
-            "last_commit": "2026-04-25T17:57:30Z",
-            "owner": "Kirottu",
-            "repo": "system76-scheduler-niri",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vim-niri-nav",
-          "description": "Seamless navigation between niri windows and (neo)vim splits with the same key bindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2026-06-19T10:25:04Z",
-            "owner": "andergrim",
-            "repo": "vim-niri-nav",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NASW",
-          "description": "Automatically switch audio based on active windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-08T18:02:56Z",
-            "owner": "ledati16",
-            "repo": "pwsw",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nirilayout",
-          "description": "Quickly switch output configuration between different layouts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-09T16:59:32Z",
-            "owner": "calico32",
-            "repo": "nirilayout",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kunai",
-          "description": "Automatically switch keyboard layouts based on which physical keyboard is being used.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-15T16:03:28Z",
-            "owner": "mikkurogue",
-            "repo": "kunai",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-screensaver",
-          "description": "Idle-aware terminal screensaver for niri, driven by TerminalTextEffects, with an optional Noctalia plugin for IdleService integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-07T01:34:33Z",
-            "owner": "jfreed-dev",
-            "repo": "niri-screensaver",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niriSKL.nvim",
-          "description": "A Neovim plugin that maintains your latin keyboard layout of choice for NORMAL mode and restores the layout you had when in INSERT mode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-06-27T15:38:45Z",
-            "owner": "MahouShoujoMivutilde",
-            "repo": "niriSKL.nvim",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "System Integration and Automation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nirimod",
-          "description": "A visual, interactive configuration interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T18:04:58Z",
-            "owner": "srinivasr",
-            "repo": "nirimod",
-            "stars": 372
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-settings",
-          "description": "Basic configuration GUI for niri config.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-18T17:08:59Z",
-            "owner": "stefonarch",
-            "repo": "niri-settings",
-            "stars": 149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-screen-time",
-          "description": "A utility that collects information about how much time you spend in each application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-28T09:22:55Z",
-            "owner": "probeldev",
-            "repo": "niri-screen-time",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arbtt-capture-wl",
-          "description": "Time tracker utility arbtt ported to Wayland.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-01T16:22:25Z",
-            "owner": "franzos",
-            "repo": "arbtt-capture-wl",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niri-cwd",
-          "description": "A program to print the focused window's working directory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-29T22:07:40Z",
-            "owner": "nouritsu",
-            "repo": "niri-cwd",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -569,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1108751442,
             "language": "Python",
             "last_commit": "2026-07-20T03:05:27Z",
             "owner": "Xansidev",
@@ -583,18 +628,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191970341,
             "language": "GLSL",
             "last_commit": "2026-07-23T13:02:04Z",
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 210
+            "stars": 211
           }
         }
       ],
       "title": "Custom Shaders"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -603,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144071425,
             "language": "C++",
             "last_commit": "2026-08-14T21:34:07Z",
             "owner": "Alexays",
@@ -617,11 +664,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 524500186,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:46:56Z",
+            "last_commit": "2026-08-19T10:02:06Z",
             "owner": "JakeStanger",
             "repo": "ironbar",
-            "stars": 1434
+            "stars": 1436
           }
         },
         {
@@ -631,11 +679,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662689471,
             "language": "Rust",
             "last_commit": "2026-08-17T08:50:46Z",
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1068
+            "stars": 1069
           }
         },
         {
@@ -645,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 834792716,
             "language": "Python",
             "last_commit": "2026-08-18T16:38:49Z",
             "owner": "ignis-sh",
@@ -659,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1121228209,
             "language": "Rust",
             "last_commit": "2026-08-17T06:19:24Z",
             "owner": "prankstr",
@@ -673,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 943614307,
             "language": "Rust",
             "last_commit": "2025-12-04T02:37:12Z",
             "owner": "LawnGnome",
@@ -687,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476835319,
             "language": "Rust",
             "last_commit": "2025-05-19T15:57:27Z",
             "owner": "MaxVerevkin",
@@ -701,11 +754,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 909175058,
             "language": "Rust",
             "last_commit": "2026-08-08T17:45:16Z",
             "owner": "faervan",
             "repo": "bar-rs",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -715,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1098562540,
             "language": "Rust",
             "last_commit": "2026-06-07T18:48:33Z",
             "owner": "adelmonte",
@@ -729,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1004060671,
             "language": "Go",
             "last_commit": "2026-06-02T19:24:47Z",
             "owner": "calico32",
@@ -743,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 858278275,
             "language": "Rust",
             "last_commit": "2026-04-25T14:47:30Z",
             "owner": "druskus20",
@@ -757,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1247337833,
             "language": "Python",
             "last_commit": "2026-05-23T07:20:06Z",
             "owner": "ews",
@@ -768,7 +826,7 @@
       "title": "Bars and Widgets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -777,11 +835,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017945204,
             "language": "C++",
-            "last_commit": "2026-08-18T15:49:10Z",
+            "last_commit": "2026-08-19T03:00:45Z",
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 9610
+            "stars": 9632
           }
         },
         {
@@ -791,11 +850,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017466877,
             "language": "QML",
-            "last_commit": "2026-08-18T16:46:09Z",
+            "last_commit": "2026-08-18T21:53:22Z",
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7645
+            "stars": 7656
           }
         },
         {
@@ -805,8 +865,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1102221632,
             "language": "QML",
-            "last_commit": "2026-08-12T00:30:41Z",
+            "last_commit": "2026-08-18T21:12:07Z",
             "owner": "snowarch",
             "repo": "iNiR",
             "stars": 1436
@@ -819,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1040551818,
             "language": "Python",
             "last_commit": "2026-01-16T23:43:01Z",
             "owner": "debuggyo",
@@ -833,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1018577289,
             "language": "TypeScript",
             "last_commit": "2026-07-17T18:15:36Z",
             "owner": "Sinomor",
@@ -847,11 +910,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148478888,
             "language": "Rust",
             "last_commit": "2026-08-07T22:09:09Z",
             "owner": "andre-brandao",
             "repo": "gpui-shell",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -861,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1074748597,
             "language": "C++",
             "last_commit": "2026-08-08T11:54:02Z",
             "owner": "imiric",
@@ -875,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 875312616,
             "language": "QML",
             "last_commit": "2026-07-08T05:32:00Z",
             "owner": "hashankur",
@@ -889,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 954134534,
             "language": "Python",
             "last_commit": "2026-01-28T12:51:55Z",
             "owner": "lost-melody",
@@ -903,8 +970,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1021088367,
             "language": "Rust",
-            "last_commit": "2026-08-18T09:13:04Z",
+            "last_commit": "2026-08-18T21:52:25Z",
             "owner": "alex-oleshkevich",
             "repo": "glimpse",
             "stars": 10
@@ -914,7 +982,7 @@
       "title": "Custom Shells"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -923,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13589209,
             "language": "Shell",
             "last_commit": "2026-05-17T17:09:31Z",
             "owner": "lxqt",
@@ -937,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 878686014,
             "language": "Shell",
             "last_commit": "2025-04-02T11:34:17Z",
             "owner": "Drakulix",
@@ -948,7 +1018,7 @@
       "title": "DE Integration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -957,11 +1027,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676934005,
             "language": "Rust",
-            "last_commit": "2026-08-18T15:19:09Z",
+            "last_commit": "2026-08-19T08:32:09Z",
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 26984
+            "stars": 27008
           }
         },
         {
@@ -971,11 +1042,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 988224878,
             "language": "Nix",
             "last_commit": "2026-08-10T08:55:16Z",
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1403
+            "stars": 1404
           }
         }
       ],
@@ -983,8 +1055,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:18:46.119Z",
+    "last_updated": "2026-08-19T12:43:31.185Z",
     "original_repository": "niri-wm/awesome-niri",
+    "original_repository_id": 988224878,
     "original_repository_sha": "a8cc5bde779135e4befe7d940d6b48b272c67421",
     "enhanced_repository": "enhansome/enhansome-niri",
     "enhanced_repository_description": null,
