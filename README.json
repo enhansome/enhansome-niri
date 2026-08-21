@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-07T02:20:50Z",
                 "owner": "Asthestarsfalll",
                 "repo": "piri",
-                "stars": 87
+                "stars": 88
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-11T20:51:27Z",
                 "owner": "Zerodya",
                 "repo": "wl-freeze",
-                "stars": 240
+                "stars": 242
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-07-12T14:46:04Z",
                 "owner": "sandwichfarm",
                 "repo": "hyprlax",
-                "stars": 213
+                "stars": 215
               }
             },
             {
@@ -405,7 +405,7 @@
                 "last_commit": "2026-08-15T12:55:00Z",
                 "owner": "saltnpepper97",
                 "repo": "stasis",
-                "stars": 175
+                "stars": 176
               }
             },
             {
@@ -507,7 +507,7 @@
                 "archived": false,
                 "id": 1141294103,
                 "language": "Rust",
-                "last_commit": "2026-08-15T16:03:28Z",
+                "last_commit": "2026-08-21T16:43:07Z",
                 "owner": "mikkurogue",
                 "repo": "kunai",
                 "stars": 5
@@ -577,7 +577,7 @@
                 "last_commit": "2026-08-02T18:04:58Z",
                 "owner": "srinivasr",
                 "repo": "nirimod",
-                "stars": 375
+                "stars": 378
               }
             },
             {
@@ -592,7 +592,7 @@
                 "last_commit": "2026-07-18T17:08:59Z",
                 "owner": "stefonarch",
                 "repo": "niri-settings",
-                "stars": 149
+                "stars": 150
               }
             },
             {
@@ -663,7 +663,7 @@
             "last_commit": "2026-07-20T03:05:27Z",
             "owner": "Xansidev",
             "repo": "nirimation",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-23T13:02:04Z",
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 212
+            "stars": 214
           }
         }
       ],
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-20T11:41:51Z",
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11820
+            "stars": 11827
           }
         },
         {
@@ -711,10 +711,10 @@
             "archived": false,
             "id": 524500186,
             "language": "Rust",
-            "last_commit": "2026-08-19T10:02:06Z",
+            "last_commit": "2026-08-20T21:28:19Z",
             "owner": "JakeStanger",
             "repo": "ironbar",
-            "stars": 1441
+            "stars": 1438
           }
         },
         {
@@ -726,7 +726,7 @@
             "archived": false,
             "id": 662689471,
             "language": "Rust",
-            "last_commit": "2026-08-17T08:50:46Z",
+            "last_commit": "2026-08-20T20:14:33Z",
             "owner": "MalpenZibo",
             "repo": "ashell",
             "stars": 1069
@@ -756,7 +756,7 @@
             "archived": false,
             "id": 1121228209,
             "language": "Rust",
-            "last_commit": "2026-08-17T06:19:24Z",
+            "last_commit": "2026-08-21T11:56:48Z",
             "owner": "prankstr",
             "repo": "vibepanel",
             "stars": 161
@@ -882,10 +882,10 @@
             "archived": false,
             "id": 1017945204,
             "language": "C++",
-            "last_commit": "2026-08-20T14:29:38Z",
+            "last_commit": "2026-08-21T11:56:50Z",
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 9678
+            "stars": 9706
           }
         },
         {
@@ -897,10 +897,10 @@
             "archived": false,
             "id": 1017466877,
             "language": "QML",
-            "last_commit": "2026-08-20T17:07:36Z",
+            "last_commit": "2026-08-21T15:01:28Z",
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7665
+            "stars": 7677
           }
         },
         {
@@ -912,10 +912,10 @@
             "archived": false,
             "id": 1102221632,
             "language": "QML",
-            "last_commit": "2026-08-18T21:12:07Z",
+            "last_commit": "2026-08-20T23:06:54Z",
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1441
+            "stars": 1453
           }
         },
         {
@@ -930,7 +930,7 @@
             "last_commit": "2026-01-16T23:43:01Z",
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 687
+            "stars": 688
           }
         },
         {
@@ -1035,7 +1035,7 @@
             "last_commit": "2026-08-18T11:42:08Z",
             "owner": "sameoldlab",
             "repo": "niri-gtk",
-            "stars": 3
+            "stars": 4
           }
         }
       ],
@@ -1056,7 +1056,7 @@
             "last_commit": "2026-05-17T17:09:31Z",
             "owner": "lxqt",
             "repo": "lxqt",
-            "stars": 1861
+            "stars": 1862
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "last_commit": "2026-08-19T08:32:09Z",
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27038
+            "stars": 27057
           }
         },
         {
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-08-19T18:08:59Z",
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1404
+            "stars": 1407
           }
         }
       ],
@@ -1115,7 +1115,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:20:16.220Z",
+    "last_updated": "2026-08-21T17:20:00.391Z",
     "original_repository": "niri-wm/awesome-niri",
     "original_repository_id": 988224878,
     "original_repository_sha": "946bc74bb8606bbe2958a0b1722ed90693a6f231",
