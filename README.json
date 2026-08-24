@@ -405,7 +405,7 @@
                 "last_commit": "2026-08-15T12:55:00Z",
                 "owner": "saltnpepper97",
                 "repo": "stasis",
-                "stars": 177
+                "stars": 178
               }
             },
             {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-23T13:02:04Z",
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 217
+            "stars": 218
           }
         }
       ],
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-20T11:41:51Z",
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11847
+            "stars": 11850
           }
         },
         {
@@ -726,7 +726,7 @@
             "archived": false,
             "id": 662689471,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:05:07Z",
+            "last_commit": "2026-08-24T14:50:17Z",
             "owner": "MalpenZibo",
             "repo": "ashell",
             "stars": 1075
@@ -885,7 +885,7 @@
             "last_commit": "2026-08-24T13:14:14Z",
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 9814
+            "stars": 9822
           }
         },
         {
@@ -897,10 +897,10 @@
             "archived": false,
             "id": 1017466877,
             "language": "QML",
-            "last_commit": "2026-08-24T03:51:55Z",
+            "last_commit": "2026-08-24T16:41:49Z",
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7718
+            "stars": 7723
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "last_commit": "2026-08-21T18:51:41Z",
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27132
+            "stars": 27136
           }
         },
         {
@@ -1115,7 +1115,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:17.122Z",
+    "last_updated": "2026-08-24T17:22:23.179Z",
     "original_repository": "niri-wm/awesome-niri",
     "original_repository_id": 988224878,
     "original_repository_sha": "946bc74bb8606bbe2958a0b1722ed90693a6f231",
