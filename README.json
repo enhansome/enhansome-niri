@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1125215891,
                 "language": "Rust",
-                "last_commit": "2026-08-26T02:47:51Z",
+                "last_commit": "2026-08-27T09:34:59Z",
                 "owner": "Asthestarsfalll",
                 "repo": "piri",
-                "stars": 88
+                "stars": 90
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-26T14:33:10Z",
                 "owner": "MintyDoggo",
                 "repo": "miri",
-                "stars": 102
+                "stars": 103
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-22T17:52:21Z",
                 "owner": "Antiz96",
                 "repo": "oniri",
-                "stars": 48
+                "stars": 49
               }
             },
             {
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-20T11:41:51Z",
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11855
+            "stars": 11859
           }
         },
         {
@@ -729,7 +729,7 @@
             "last_commit": "2026-08-26T09:58:44Z",
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1076
+            "stars": 1078
           }
         },
         {
@@ -741,10 +741,10 @@
             "archived": false,
             "id": 834792716,
             "language": "Python",
-            "last_commit": "2026-08-26T17:29:21Z",
+            "last_commit": "2026-08-27T05:42:02Z",
             "owner": "ignis-sh",
             "repo": "ignis",
-            "stars": 682
+            "stars": 683
           }
         },
         {
@@ -756,10 +756,10 @@
             "archived": false,
             "id": 1121228209,
             "language": "Rust",
-            "last_commit": "2026-08-24T07:57:15Z",
+            "last_commit": "2026-08-27T09:52:54Z",
             "owner": "prankstr",
             "repo": "vibepanel",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -882,10 +882,10 @@
             "archived": false,
             "id": 1017945204,
             "language": "C++",
-            "last_commit": "2026-08-26T15:41:08Z",
+            "last_commit": "2026-08-27T09:24:27Z",
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 9891
+            "stars": 9912
           }
         },
         {
@@ -897,10 +897,10 @@
             "archived": false,
             "id": 1017466877,
             "language": "QML",
-            "last_commit": "2026-08-26T12:01:49Z",
+            "last_commit": "2026-08-27T05:26:13Z",
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7757
+            "stars": 7764
           }
         },
         {
@@ -912,10 +912,10 @@
             "archived": false,
             "id": 1102221632,
             "language": "QML",
-            "last_commit": "2026-08-25T19:43:53Z",
+            "last_commit": "2026-08-27T10:30:57Z",
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1499
+            "stars": 1507
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-08-07T22:09:09Z",
             "owner": "andre-brandao",
             "repo": "gpui-shell",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "archived": false,
             "id": 1021088367,
             "language": "Rust",
-            "last_commit": "2026-08-26T14:14:32Z",
+            "last_commit": "2026-08-27T09:32:54Z",
             "owner": "alex-oleshkevich",
             "repo": "glimpse",
             "stars": 12
@@ -1092,7 +1092,7 @@
             "last_commit": "2026-08-21T18:51:41Z",
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27189
+            "stars": 27208
           }
         },
         {
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-08-19T18:08:59Z",
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1422
+            "stars": 1423
           }
         }
       ],
@@ -1115,9 +1115,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:49:37.902Z",
-    "original_repository": "niri-wm/awesome-niri",
-    "original_repository_id": 988224878,
+    "last_updated": "2026-08-27T11:52:12.339Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 988224878,
+      "language": "Nix",
+      "last_commit": "2026-08-19T18:08:59Z",
+      "owner": "niri-wm",
+      "repo": "awesome-niri",
+      "stars": 1423
+    },
     "original_repository_sha": "946bc74bb8606bbe2958a0b1722ed90693a6f231",
     "enhanced_repository": "enhansome/enhansome-niri",
     "enhanced_repository_description": null,
