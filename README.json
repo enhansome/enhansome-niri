@@ -12,12 +12,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts for additional functionality when using niri (Wayland compositor)",
+                "homepage": null,
                 "id": 1055667441,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-27T21:17:55Z",
+                "open_issues": 2,
                 "owner": "heyoeyo",
                 "repo": "niri_tweaks",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "niri"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -28,12 +35,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Piri is a high-performance Niri extension tool built with Rust. It leverages efficient Niri IPC interaction and a unified event distribution mechanism to provide a robust, state-driven plugin system.",
+                "homepage": null,
                 "id": 1125215891,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T09:34:59Z",
+                "open_issues": 4,
                 "owner": "Asthestarsfalll",
                 "repo": "piri",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "desktop",
+                  "extension",
+                  "multiscreen",
+                  "niri",
+                  "niri-ipc",
+                  "plugin",
+                  "productivity",
+                  "quality-of-life",
+                  "scratchpad",
+                  "scriptable"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -44,12 +67,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🫂 A toolkit that adds extra functionality to niri",
+                "homepage": "https://pypi.org/project/niri-companion/",
                 "id": 1054418728,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-01T20:51:52Z",
+                "open_issues": 1,
                 "owner": "dybdeskarphet",
                 "repo": "niri-companion",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "companion",
+                  "compositor",
+                  "niri",
+                  "tools",
+                  "wayland",
+                  "wm"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -60,12 +95,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My niri scripts to extend its functionality",
+                "homepage": null,
                 "id": 1022071074,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-01-14T10:46:30Z",
+                "open_issues": 3,
                 "owner": "0xwal",
                 "repo": "niri-scripts",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "niri",
+                  "wm"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             }
@@ -83,12 +126,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility to suspend a game process (and other programs) in Wayland compositors",
+                "homepage": null,
                 "id": 686389338,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-11T20:51:27Z",
+                "open_issues": 1,
                 "owner": "Zerodya",
                 "repo": "wl-freeze",
-                "stars": 244
+                "stars": 244,
+                "topics": [
+                  "games",
+                  "hyprland",
+                  "multitask",
+                  "niri",
+                  "pause",
+                  "suspend",
+                  "sway",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -99,12 +156,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, external sidebar manager for the Niri window manager.",
+                "homepage": null,
                 "id": 1153049523,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-16T11:51:27Z",
+                "open_issues": 10,
                 "owner": "Vigintillionn",
                 "repo": "niri-sidebar",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "niri",
+                  "sidebar"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -115,12 +180,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scratchpad support for Niri",
+                "homepage": null,
                 "id": 1056314853,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-22T08:40:56Z",
+                "open_issues": 0,
                 "owner": "gvolpe",
                 "repo": "niri-scratchpad",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "niri",
+                  "scratchpad",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -131,12 +205,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to hyprland or mangowm.",
+                "homepage": null,
                 "id": 1158300712,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:33:10Z",
+                "open_issues": 11,
                 "owner": "MintyDoggo",
                 "repo": "miri",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "extension",
+                  "niri",
+                  "rust",
+                  "tiling-window-manager"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -147,12 +231,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A utility to make floating windows visible across all workspaces in niri — similar to \"sticky windows\" in other compositors.",
+                "homepage": null,
                 "id": 961471023,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-12T08:30:09Z",
+                "open_issues": 1,
                 "owner": "probeldev",
                 "repo": "niri-float-sticky",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "niri"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -163,12 +254,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic & Static Scratchpad Management for Niri",
+                "homepage": null,
                 "id": 1103427762,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-09T22:17:22Z",
+                "open_issues": 3,
                 "owner": "argosnothing",
                 "repo": "niri-scratchpad-rs",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "niri",
+                  "nix",
+                  "nix-flake",
+                  "rust",
+                  "scratchpad"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -179,12 +281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emulate 'tdrop' in niri (run, show and hide programs via keybind - similar to a dropdown terminal) ",
+                "homepage": null,
                 "id": 859267421,
                 "language": "Shell",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-24T23:29:56Z",
+                "open_issues": 1,
                 "owner": "Schweber",
                 "repo": "ndrop",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -195,12 +302,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool that automatically maximizes the only window of a niri workspace (with optional tiling layout mode).",
+                "homepage": null,
                 "id": 1183707972,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T17:52:21Z",
+                "open_issues": 1,
                 "owner": "Antiz96",
                 "repo": "oniri",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "niri",
+                  "niri-config",
+                  "niri-ipc",
+                  "rust",
+                  "tiling",
+                  "wayland",
+                  "wayland-compositor"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -211,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Niri FullScreen Manager",
+                "homepage": null,
                 "id": 1073158578,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-23T11:45:36Z",
+                "open_issues": 1,
                 "owner": "gvolpe",
                 "repo": "nfsm",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -227,12 +352,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sticky windows manager CLI tool for Niri",
+                "homepage": null,
                 "id": 1035552892,
                 "language": "Rust",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T00:42:30Z",
+                "open_issues": 0,
                 "owner": "lonerOrz",
                 "repo": "nsticky",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "niri",
+                  "niri-float-sticky"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -243,12 +376,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal workspace minimap overlay for the Niri Wayland compositor.",
+                "homepage": null,
                 "id": 1108821174,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-05T15:24:34Z",
+                "open_issues": 3,
                 "owner": "alexandergknoll",
                 "repo": "nirimap",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "niri",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -259,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run-or-Raise for yalter/niri",
+                "homepage": null,
                 "id": 1117564440,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-01-08T10:49:20Z",
+                "open_issues": 1,
                 "owner": "boomskats",
                 "repo": "niri-ror",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -275,12 +421,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Picture-in-Picture and sticky-window controller for the Niri Wayland compositor",
+                "homepage": "https://github.com/t1ktakdev/niri-pip/releases/latest",
                 "id": 1335763108,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-16T10:43:32Z",
+                "open_issues": 2,
                 "owner": "t1ktakdev",
                 "repo": "niri-pip",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "inir",
+                  "linux",
+                  "niri",
+                  "picture-in-picture",
+                  "rust",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             }
@@ -298,12 +456,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically save and restore windows in the Niri Wayland compositor, with additional configurable options. ",
+                "homepage": null,
                 "id": 921028324,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-25T13:47:02Z",
+                "open_issues": 2,
                 "owner": "MTeaHead",
                 "repo": "niri-session-manager",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "niri",
+                  "nixos-flake",
+                  "nixos-module",
+                  "rust",
+                  "session-manager",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -314,12 +484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A session manager for Niri, a scrollable-tiling Wayland compositor",
+                "homepage": null,
                 "id": 1068367790,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-03-25T05:03:45Z",
+                "open_issues": 5,
                 "owner": "amaanq",
                 "repo": "nirinit",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -330,12 +505,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI to save and load your compositors tree/layout",
+                "homepage": null,
                 "id": 976732609,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-05T08:06:01Z",
+                "open_issues": 0,
                 "owner": "fabienjuif",
                 "repo": "swaytreesave",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "cli",
+                  "i3",
+                  "layout",
+                  "niri",
+                  "sway",
+                  "swaywm",
+                  "tree",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             }
@@ -353,12 +542,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "buttery smooth parallax wallpaper daemon for wayland compositors",
+                "homepage": "https://hyprlax.com/",
                 "id": 1055632659,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-12T14:46:04Z",
+                "open_issues": 10,
                 "owner": "sandwichfarm",
                 "repo": "hyprlax",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "144hz",
+                  "hyprland",
+                  "hyprland-rice",
+                  "niri",
+                  "niri-rice",
+                  "parallax",
+                  "parallax-effect",
+                  "river",
+                  "river-rice",
+                  "wallpaper",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -369,12 +575,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.",
+                "homepage": "https://yangyus8.top/lwe/",
                 "id": 1079609826,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T02:09:12Z",
+                "open_issues": 16,
                 "owner": "YangYuS8",
                 "repo": "lwe",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "appimage",
+                  "aur",
+                  "dynamic-wallpaper",
+                  "linux",
+                  "linux-desktop",
+                  "niri",
+                  "rust",
+                  "steam-workshop",
+                  "svelte",
+                  "tauri-app",
+                  "tauri2",
+                  "wallpaper",
+                  "wallpaper-engine",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -385,12 +611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "wayland wallpaper daemon that can bind to compositor IPC for dynamic scrolling",
+                "homepage": null,
                 "id": 1030076113,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2025-09-30T02:40:52Z",
+                "open_issues": 1,
                 "owner": "PandorasFox",
                 "repo": "pandora",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             }
@@ -408,12 +639,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wayland native, highly customizable runner.",
+                "homepage": "https://matrix.to/#/#anyrun:kirottu.com",
                 "id": 582422837,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-14T08:13:07Z",
+                "open_issues": 72,
                 "owner": "anyrun-org",
                 "repo": "anyrun",
-                "stars": 1294
+                "stars": 1294,
+                "topics": [
+                  "gtk",
+                  "launcher",
+                  "runner",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -424,12 +665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, feature rich Wayland idle manager written in Rust",
+                "homepage": "https://saltnpepper97.github.io/stasis-site",
                 "id": 1063249416,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T12:55:00Z",
+                "open_issues": 4,
                 "owner": "saltnpepper97",
                 "repo": "stasis",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -440,12 +686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Listen to iio-sensor-proxy and updates Niri output orientation depending on the accelerometer orientation.",
+                "homepage": null,
                 "id": 1032960872,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-16T11:59:24Z",
+                "open_issues": 1,
                 "owner": "Zhaith-Izaliel",
                 "repo": "iio-niri",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -456,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tui monitor configuration tool for niri with visual layout, drag-and-drop, and profile management",
+                "homepage": null,
                 "id": 1235944977,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T12:26:52Z",
+                "open_issues": 0,
                 "owner": "stepbrobd",
                 "repo": "nirimon",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -472,12 +728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Niri integration for system76-scheduler",
+                "homepage": null,
                 "id": 1030755728,
                 "language": "Nix",
+                "license": "MIT",
                 "last_commit": "2026-04-25T17:57:30Z",
+                "open_issues": 1,
                 "owner": "Kirottu",
                 "repo": "system76-scheduler-niri",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -488,12 +749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seamless navigation between [niri](https://github.com/YaLTeR/niri) windows and (Neo)Vim splits with the same key bindings.",
+                "homepage": null,
                 "id": 988307343,
                 "language": "Vim Script",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-19T10:25:04Z",
+                "open_issues": 3,
                 "owner": "andergrim",
                 "repo": "vim-niri-nav",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -504,12 +770,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PipeWire Switcher - Automatically switch audio output based on active windows",
+                "homepage": null,
                 "id": 1111308786,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-03-08T18:02:56Z",
+                "open_issues": 0,
                 "owner": "ledati16",
                 "repo": "pwsw",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "daemon",
+                  "linux",
+                  "notifications",
+                  "pipewire",
+                  "playback-devices",
+                  "ratatui",
+                  "rust",
+                  "sound",
+                  "switch"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -520,12 +801,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "niri monitor layout switcher",
+                "homepage": null,
                 "id": 1131354763,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-09T16:59:32Z",
+                "open_issues": 2,
                 "owner": "calico32",
                 "repo": "nirilayout",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "display",
+                  "golang",
+                  "layout",
+                  "monitor",
+                  "niri"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -536,12 +828,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight daemon for niri to setup keyboard layout detection for multi layout and multi keyboard users",
+                "homepage": null,
                 "id": 1141294103,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T16:43:07Z",
+                "open_issues": 1,
                 "owner": "mikkurogue",
                 "repo": "kunai",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "daemon",
+                  "keyboard-layout",
+                  "niri",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -552,12 +854,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal-based screensaver for Niri (TerminalTextEffects + Noctalia plugin)",
+                "homepage": "https://aur.archlinux.org/packages/niri-screensaver",
                 "id": 1232988988,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-07T01:34:33Z",
+                "open_issues": 1,
                 "owner": "jfreed-dev",
                 "repo": "niri-screensaver",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "ascii-art",
+                  "niri",
+                  "noctalia",
+                  "quickshell",
+                  "screensaver",
+                  "terminal",
+                  "terminaltexteffects",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -568,12 +884,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supersampled Wayland screenshots via a temporary high-resolution phantom output",
+                "homepage": null,
                 "id": 1331839342,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T17:16:12Z",
+                "open_issues": 6,
                 "owner": "xevrion",
                 "repo": "utsushot",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cli",
+                  "hidpi",
+                  "linux",
+                  "niri",
+                  "rust",
+                  "screenshot",
+                  "supersampling",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -584,12 +914,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neovim plugin for niri users that maintains your latin keyboard layout of choice for NORMAL mode and restores the layout you had when in INSERT mode",
+                "homepage": null,
                 "id": 1265357528,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-06-27T15:38:45Z",
+                "open_issues": 0,
                 "owner": "MahouShoujoMivutilde",
                 "repo": "niriSKL.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "keyboard-layout",
+                  "lua",
+                  "neovim-plugin",
+                  "niri",
+                  "switch-layouts"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             }
@@ -607,12 +948,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NiriMod – A visual, interactive configuration interface for the niri Wayland compositor.",
+                "homepage": null,
                 "id": 1209762227,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-02T18:04:58Z",
+                "open_issues": 5,
                 "owner": "srinivasr",
                 "repo": "nirimod",
-                "stars": 386
+                "stars": 386,
+                "topics": [
+                  "configurator",
+                  "gui",
+                  "niri",
+                  "niri-settings",
+                  "nirimod",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -623,12 +976,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configuration GUI for niri (Wayland compositor)",
+                "homepage": null,
                 "id": 1102334650,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-18T17:08:59Z",
+                "open_issues": 2,
                 "owner": "stefonarch",
                 "repo": "niri-settings",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -639,12 +997,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Niri Screen Time",
+                "homepage": null,
                 "id": 986978647,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-28T09:22:55Z",
+                "open_issues": 1,
                 "owner": "probeldev",
                 "repo": "niri-screen-time",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "hyprland",
+                  "linux",
+                  "macos",
+                  "niri",
+                  "screentime"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -655,12 +1024,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "arbtt capture for niri and sway Wayland compositors",
+                "homepage": null,
                 "id": 1139214883,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-01T16:22:25Z",
+                "open_issues": 0,
                 "owner": "franzos",
                 "repo": "arbtt-capture-wl",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "arbtt",
+                  "niri",
+                  "sway",
+                  "time-tracking",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -671,12 +1051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple utility to print the focused window's working directory in Niri.",
+                "homepage": null,
                 "id": 1194124718,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-03-29T22:07:40Z",
+                "open_issues": 0,
                 "owner": "nouritsu",
                 "repo": "niri-cwd",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             }
@@ -698,12 +1083,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A host for Niri Animations configurations to be shared using custom shaders built in with GLSL",
+            "homepage": null,
             "id": 1108751442,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T03:05:27Z",
+            "open_issues": 0,
             "owner": "Xansidev",
             "repo": "nirimation",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "linux",
+              "niri",
+              "ricing",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -714,12 +1109,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of GLSL shaders for use with Niri",
+            "homepage": null,
             "id": 1191970341,
             "language": "GLSL",
+            "license": "MIT",
             "last_commit": "2026-07-23T13:02:04Z",
+            "open_issues": 0,
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "linux",
+              "niri",
+              "ricing",
+              "shader"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         }
@@ -736,12 +1141,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+            "homepage": null,
             "id": 144071425,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:37:29Z",
+            "open_issues": 713,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11870
+            "stars": 11870,
+            "topics": [
+              "bar",
+              "gtk",
+              "i3status",
+              "statusbar",
+              "sway",
+              "wayland",
+              "wlroots"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -752,12 +1170,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customisable Wayland GTK4 bar written in Rust.",
+            "homepage": "https://crates.io/crates/ironbar",
             "id": 524500186,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:58:46Z",
+            "open_issues": 121,
             "owner": "JakeStanger",
             "repo": "ironbar",
-            "stars": 1445
+            "stars": 1445,
+            "topics": [
+              "bar",
+              "desktop",
+              "gtk",
+              "gtk-layer-shell",
+              "gtk4",
+              "hyprland",
+              "ironbar",
+              "niri",
+              "rust",
+              "sway",
+              "wayland",
+              "wlroots"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -768,12 +1204,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ready to go status bar for Wayland compositors",
+            "homepage": "https://malpenzibo.github.io/ashell/",
             "id": 662689471,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T15:03:13Z",
+            "open_issues": 96,
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "bar",
+              "hyprland",
+              "iced-rs",
+              "mangowc",
+              "niri",
+              "rice",
+              "statusbar",
+              "wayland",
+              "wlroots"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -784,12 +1235,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A widget framework for building desktop shells, written and configurable in Python",
+            "homepage": "https://ignis-sh.github.io/ignis/",
             "id": 834792716,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T15:44:43Z",
+            "open_issues": 66,
             "owner": "ignis-sh",
             "repo": "ignis",
-            "stars": 684
+            "stars": 684,
+            "topics": [
+              "desktop-environment",
+              "gtk4",
+              "ignis",
+              "linux-desktop",
+              "python",
+              "unixporn",
+              "wayland",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -800,12 +1265,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GTK4 panel for Wayland with notifications, OSD, and quick settings – between a status bar and a desktop shell.",
+            "homepage": null,
             "id": 1121228209,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:16:39Z",
+            "open_issues": 4,
             "owner": "prankstr",
             "repo": "vibepanel",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "bar",
+              "gtk",
+              "gtk4",
+              "hyprland",
+              "mangowc",
+              "niri",
+              "panel",
+              "rust",
+              "statusbar",
+              "sway",
+              "tiling-window-manager",
+              "wayland",
+              "wlroots"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -816,12 +1300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Niri taskbar module for Waybar",
+            "homepage": null,
             "id": 943614307,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-12-04T02:37:12Z",
+            "open_issues": 29,
             "owner": "LawnGnome",
             "repo": "niri-taskbar",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -832,12 +1321,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of i3bar for wlroots-based compositors",
+            "homepage": null,
             "id": 476835319,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-19T15:57:27Z",
+            "open_issues": 23,
             "owner": "MaxVerevkin",
             "repo": "i3bar-river",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "hyprland",
+              "i3bar",
+              "river",
+              "riverwm",
+              "statusbar",
+              "wayland",
+              "wlroots"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -848,12 +1350,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple status bar for hyprland, niri and wayfire, written in rust using iced-rs",
+            "homepage": "https://crabbar.org/",
             "id": 909175058,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T12:21:52Z",
+            "open_issues": 9,
             "owner": "faervan",
             "repo": "bar-rs",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "hyprland",
+              "iced-rs",
+              "niri",
+              "rust",
+              "status-bar",
+              "statusbar",
+              "userspace-component",
+              "wayfire",
+              "wayland",
+              "wayland-bar"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -864,12 +1382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Waybar module for displaying and managing traditional window buttons in the Niri compositor.",
+            "homepage": null,
             "id": 1098562540,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-07T18:48:33Z",
+            "open_issues": 0,
             "owner": "adelmonte",
             "repo": "niri_window_buttons",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -880,12 +1403,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "niri window minimap/focus indicator for Waybar",
+            "homepage": null,
             "id": 1004060671,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-02T19:24:47Z",
+            "open_issues": 4,
             "owner": "calico32",
             "repo": "waybar-niri-windows",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "go",
+              "niri",
+              "waybar"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -896,12 +1428,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rust binary that outputs workspace information from niri-ipc to be consumed by eww",
+            "homepage": null,
             "id": 858278275,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-25T14:47:30Z",
+            "open_issues": 0,
             "owner": "druskus20",
             "repo": "eww-niri-workspaces",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "eww",
+              "niri",
+              "wm"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -912,12 +1453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1247337833,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-23T07:20:06Z",
+            "open_issues": 0,
             "owner": "ews",
             "repo": "noctalia-niri-ribbon",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         }
@@ -934,12 +1480,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sleek, customizable desktop shell crafted for Wayland.",
+            "homepage": "https://docs.noctalia.dev",
             "id": 1017945204,
             "language": "C++",
-            "last_commit": "2026-08-29T00:43:58Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:49:08Z",
+            "open_issues": 347,
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 9959
+            "stars": 9966,
+            "topics": [
+              "hyprland",
+              "linux",
+              "niri",
+              "noctalia",
+              "rice"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -950,12 +1507,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
+            "homepage": "https://danklinux.com",
             "id": 1017466877,
             "language": "QML",
-            "last_commit": "2026-08-28T20:15:08Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:17:49Z",
+            "open_issues": 435,
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7795
+            "stars": 7795,
+            "topics": [
+              "dwl",
+              "go",
+              "hyprland",
+              "labwc",
+              "mangowc",
+              "miracle-wm",
+              "niri",
+              "quickshell",
+              "sway",
+              "tiling-window-manager",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -966,12 +1540,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Niri shell illogical-impulse based - with some modifications..",
+            "homepage": "https://github.com/snowarch/iNiR/wiki",
             "id": 1102221632,
             "language": "QML",
-            "last_commit": "2026-08-28T22:46:40Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T03:54:35Z",
+            "open_issues": 29,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1522
+            "stars": 1522,
+            "topics": [
+              "dotfiles",
+              "linux",
+              "niri",
+              "quickshell",
+              "ricing"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -982,12 +1567,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Material 3 inspired desktop shell for Niri and Hyprland created with Ignis.",
+            "homepage": null,
             "id": 1040551818,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-16T23:43:01Z",
+            "open_issues": 13,
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 693
+            "stars": 693,
+            "topics": [
+              "gtk4",
+              "hyprland",
+              "ignis",
+              "linux-desktop",
+              "material3",
+              "niri",
+              "python",
+              "rice",
+              "unixporn",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -998,12 +1599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A shell for for niri and hyprland",
+            "homepage": "https://sinomor.github.io/delta-shell-docs/",
             "id": 1018577289,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-17T18:15:36Z",
+            "open_issues": 14,
             "owner": "Sinomor",
             "repo": "delta-shell",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -1014,12 +1620,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wayland desktop shell and status bar in Rust with GPUI, featuring a modular bar, launcher, and control center for Hyprland and Niri.",
+            "homepage": "https://andre-brandao.github.io/gpui-shell/",
             "id": 1148478888,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-07T22:09:09Z",
+            "open_issues": 2,
             "owner": "andre-brandao",
             "repo": "gpui-shell",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "hyprland",
+              "niri",
+              "nixos",
+              "rust",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -1030,12 +1647,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QML plugin for niri",
+            "homepage": null,
             "id": 1074748597,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-08T11:54:02Z",
+            "open_issues": 0,
             "owner": "imiric",
             "repo": "qml-niri",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "c-plus-plus",
+              "c-plus-plus-17",
+              "ipc",
+              "linux",
+              "niri",
+              "qt",
+              "qt6",
+              "qtquick",
+              "qtquick-plugins",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -1046,12 +1679,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom UI shell for wayland compositors",
+            "homepage": null,
             "id": 875312616,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-07-08T05:32:00Z",
+            "open_issues": 0,
             "owner": "hashankur",
             "repo": "desktop-shell",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "niri",
+              "qml",
+              "qt",
+              "quickshell"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -1062,12 +1705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Abandoned] An ignis config for niri compositor",
+            "homepage": null,
             "id": 954134534,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-28T12:51:55Z",
+            "open_issues": 0,
             "owner": "lost-melody",
             "repo": "IgnisNiriShell",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -1078,12 +1726,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wayland desktop toolkit for Niri: panel, wallpaper, lock screen, night light, and other.",
+            "homepage": "https://alex-oleshkevich.github.io/glimpse/",
             "id": 1021088367,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:56:49Z",
+            "open_issues": 1,
             "owner": "alex-oleshkevich",
             "repo": "glimpse",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "desktop-shell",
+              "gtk4",
+              "layer-shell",
+              "linux",
+              "lock-screen",
+              "niri",
+              "panel",
+              "relm4",
+              "rust",
+              "status-bar",
+              "wallpaper",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -1094,12 +1760,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gtk bindings to niri-ipc",
+            "homepage": null,
             "id": 1254531704,
             "language": "Vala",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-22T06:32:26Z",
+            "open_issues": 0,
             "owner": "sameoldlab",
             "repo": "niri-gtk",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gtk",
+              "niri",
+              "niri-ipc"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         }
@@ -1116,12 +1791,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checkout all LXQt components at once by using git submodule. Discussions, GH Wiki and general issues are here.",
+            "homepage": "https://lxqt-project.org",
             "id": 13589209,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-27T17:22:13Z",
+            "open_issues": 173,
             "owner": "lxqt",
             "repo": "lxqt",
-            "stars": 1868
+            "stars": 1868,
+            "topics": [
+              "desktop-environment",
+              "linux",
+              "lxqt"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -1132,12 +1816,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inofficial session variants for cosmic-epoch",
+            "homepage": "https://github.com/pop-os/cosmic-epoch/",
             "id": 878686014,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-02T11:34:17Z",
+            "open_issues": 15,
             "owner": "Drakulix",
             "repo": "cosmic-ext-extra-sessions",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "desktop-environment",
+              "wayland-compositor"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         }
@@ -1154,12 +1846,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scrollable-tiling Wayland compositor.",
+            "homepage": "https://niri-wm.github.io/niri/",
             "id": 676934005,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T18:51:41Z",
+            "open_issues": 482,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27247
+            "stars": 27247,
+            "topics": [
+              "rust",
+              "smithay",
+              "tiling-window-manager",
+              "wayland",
+              "wayland-compositor"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         },
@@ -1170,12 +1873,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
+            "homepage": null,
             "id": 988224878,
             "language": "Nix",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-19T18:08:59Z",
+            "open_issues": 1,
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1430
+            "stars": 1431,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "niri",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
         }
@@ -1184,15 +1897,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:48:17.169Z",
+    "last_updated": "2026-08-29T04:31:18.017Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
+      "homepage": null,
       "id": 988224878,
       "language": "Nix",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-19T18:08:59Z",
+      "open_issues": 1,
       "owner": "niri-wm",
       "repo": "awesome-niri",
-      "stars": 1430
+      "stars": 1431,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "niri",
+        "resources"
+      ]
     },
     "original_repository_sha": "946bc74bb8606bbe2958a0b1722ed90693a6f231",
     "enhanced_repository": "enhansome/enhansome-niri",
