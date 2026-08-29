@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-27T21:17:55Z",
                 "owner": "heyoeyo",
                 "repo": "niri_tweaks",
-                "stars": 122
-              }
+                "stars": 123
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "Asthestarsfalll",
                 "repo": "piri",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "dybdeskarphet",
                 "repo": "niri-companion",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "0xwal",
                 "repo": "niri-scripts",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             }
           ],
           "description": "For bundles of various utilities.",
@@ -85,7 +89,8 @@
                 "owner": "Zerodya",
                 "repo": "wl-freeze",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "Vigintillionn",
                 "repo": "niri-sidebar",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "gvolpe",
                 "repo": "niri-scratchpad",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "MintyDoggo",
                 "repo": "miri",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "probeldev",
                 "repo": "niri-float-sticky",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "argosnothing",
                 "repo": "niri-scratchpad-rs",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "Schweber",
                 "repo": "ndrop",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "Antiz96",
                 "repo": "oniri",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "gvolpe",
                 "repo": "nfsm",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "lonerOrz",
                 "repo": "nsticky",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "alexandergknoll",
                 "repo": "nirimap",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "boomskats",
                 "repo": "niri-ror",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -264,8 +280,9 @@
                 "last_commit": "2026-08-16T10:43:32Z",
                 "owner": "t1ktakdev",
                 "repo": "niri-pip",
-                "stars": 1
-              }
+                "stars": 2
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             }
           ],
           "description": "For utilities that assist in managing windows and workspaces.",
@@ -287,7 +304,8 @@
                 "owner": "MTeaHead",
                 "repo": "niri-session-manager",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "amaanq",
                 "repo": "nirinit",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "fabienjuif",
                 "repo": "swaytreesave",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             }
           ],
           "description": "For saving, restoring, and managing user sessions.",
@@ -338,8 +358,9 @@
                 "last_commit": "2026-07-12T14:46:04Z",
                 "owner": "sandwichfarm",
                 "repo": "hyprlax",
-                "stars": 215
-              }
+                "stars": 216
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "YangYuS8",
                 "repo": "lwe",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -369,7 +391,8 @@
                 "owner": "PandorasFox",
                 "repo": "pandora",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             }
           ],
           "description": "For managing wallpapers and other visual elements.",
@@ -391,7 +414,8 @@
                 "owner": "anyrun-org",
                 "repo": "anyrun",
                 "stars": 1294
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -406,7 +430,8 @@
                 "owner": "saltnpepper97",
                 "repo": "stasis",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -421,7 +446,8 @@
                 "owner": "Zhaith-Izaliel",
                 "repo": "iio-niri",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -436,7 +462,8 @@
                 "owner": "stepbrobd",
                 "repo": "nirimon",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -451,7 +478,8 @@
                 "owner": "Kirottu",
                 "repo": "system76-scheduler-niri",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -466,7 +494,8 @@
                 "owner": "andergrim",
                 "repo": "vim-niri-nav",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -481,7 +510,8 @@
                 "owner": "ledati16",
                 "repo": "pwsw",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -496,7 +526,8 @@
                 "owner": "calico32",
                 "repo": "nirilayout",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -511,7 +542,8 @@
                 "owner": "mikkurogue",
                 "repo": "kunai",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -526,7 +558,24 @@
                 "owner": "jfreed-dev",
                 "repo": "niri-screensaver",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
+            },
+            {
+              "node_type": "item",
+              "title": "utsushot",
+              "description": "Supersampled Wayland screenshots via a temporary high-resolution phantom output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1331839342,
+                "language": "Rust",
+                "last_commit": "2026-08-12T17:16:12Z",
+                "owner": "xevrion",
+                "repo": "utsushot",
+                "stars": 3
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -541,22 +590,8 @@
                 "owner": "MahouShoujoMivutilde",
                 "repo": "niriSKL.nvim",
                 "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "utsushot",
-              "description": "Supersampled Wayland screenshots via a temporary high-resolution phantom output.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1331839342,
-                "language": "Rust",
-                "last_commit": "2026-08-12T17:16:12Z",
-                "owner": "xevrion",
-                "repo": "utsushot",
-                "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             }
           ],
           "description": "For tools that integrate niri with other system components or automate tasks.",
@@ -577,8 +612,9 @@
                 "last_commit": "2026-08-02T18:04:58Z",
                 "owner": "srinivasr",
                 "repo": "nirimod",
-                "stars": 387
-              }
+                "stars": 386
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -592,8 +628,9 @@
                 "last_commit": "2026-07-18T17:08:59Z",
                 "owner": "stefonarch",
                 "repo": "niri-settings",
-                "stars": 152
-              }
+                "stars": 153
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -608,7 +645,8 @@
                 "owner": "probeldev",
                 "repo": "niri-screen-time",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -623,7 +661,8 @@
                 "owner": "franzos",
                 "repo": "arbtt-capture-wl",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             },
             {
               "node_type": "item",
@@ -638,7 +677,8 @@
                 "owner": "nouritsu",
                 "repo": "niri-cwd",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
             }
           ],
           "description": null,
@@ -664,7 +704,8 @@
             "owner": "Xansidev",
             "repo": "nirimation",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -679,7 +720,8 @@
             "owner": "liixini",
             "repo": "shaders",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         }
       ],
       "title": "Custom Shaders"
@@ -699,8 +741,9 @@
             "last_commit": "2026-08-27T20:37:29Z",
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11864
-          }
+            "stars": 11870
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -715,7 +758,8 @@
             "owner": "JakeStanger",
             "repo": "ironbar",
             "stars": 1445
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -729,8 +773,9 @@
             "last_commit": "2026-08-27T15:03:13Z",
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1078
-          }
+            "stars": 1080
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -741,11 +786,12 @@
             "archived": false,
             "id": 834792716,
             "language": "Python",
-            "last_commit": "2026-08-27T05:42:02Z",
+            "last_commit": "2026-08-28T15:44:43Z",
             "owner": "ignis-sh",
             "repo": "ignis",
-            "stars": 683
-          }
+            "stars": 684
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -759,8 +805,9 @@
             "last_commit": "2026-08-27T13:16:39Z",
             "owner": "prankstr",
             "repo": "vibepanel",
-            "stars": 164
-          }
+            "stars": 165
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -775,7 +822,8 @@
             "owner": "LawnGnome",
             "repo": "niri-taskbar",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -790,7 +838,8 @@
             "owner": "MaxVerevkin",
             "repo": "i3bar-river",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -805,7 +854,8 @@
             "owner": "faervan",
             "repo": "bar-rs",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -820,7 +870,8 @@
             "owner": "adelmonte",
             "repo": "niri_window_buttons",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -835,7 +886,8 @@
             "owner": "calico32",
             "repo": "waybar-niri-windows",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -850,7 +902,8 @@
             "owner": "druskus20",
             "repo": "eww-niri-workspaces",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -865,7 +918,8 @@
             "owner": "ews",
             "repo": "noctalia-niri-ribbon",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         }
       ],
       "title": "Bars and Widgets"
@@ -882,11 +936,12 @@
             "archived": false,
             "id": 1017945204,
             "language": "C++",
-            "last_commit": "2026-08-28T01:04:18Z",
+            "last_commit": "2026-08-29T00:43:58Z",
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 9930
-          }
+            "stars": 9959
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -897,11 +952,12 @@
             "archived": false,
             "id": 1017466877,
             "language": "QML",
-            "last_commit": "2026-08-27T20:20:24Z",
+            "last_commit": "2026-08-28T20:15:08Z",
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7777
-          }
+            "stars": 7795
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -912,11 +968,12 @@
             "archived": false,
             "id": 1102221632,
             "language": "QML",
-            "last_commit": "2026-08-27T17:20:08Z",
+            "last_commit": "2026-08-28T22:46:40Z",
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1508
-          }
+            "stars": 1522
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -930,8 +987,9 @@
             "last_commit": "2026-01-16T23:43:01Z",
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 692
-          }
+            "stars": 693
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1004,8 @@
             "owner": "Sinomor",
             "repo": "delta-shell",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1020,8 @@
             "owner": "andre-brandao",
             "repo": "gpui-shell",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -975,8 +1035,9 @@
             "last_commit": "2026-08-08T11:54:02Z",
             "owner": "imiric",
             "repo": "qml-niri",
-            "stars": 102
-          }
+            "stars": 103
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1052,8 @@
             "owner": "hashankur",
             "repo": "desktop-shell",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1068,8 @@
             "owner": "lost-melody",
             "repo": "IgnisNiriShell",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -1017,11 +1080,12 @@
             "archived": false,
             "id": 1021088367,
             "language": "Rust",
-            "last_commit": "2026-08-27T15:59:29Z",
+            "last_commit": "2026-08-28T14:56:49Z",
             "owner": "alex-oleshkevich",
             "repo": "glimpse",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1100,8 @@
             "owner": "sameoldlab",
             "repo": "niri-gtk",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         }
       ],
       "title": "Custom Shells"
@@ -1056,8 +1121,9 @@
             "last_commit": "2026-08-27T17:22:13Z",
             "owner": "lxqt",
             "repo": "lxqt",
-            "stars": 1867
-          }
+            "stars": 1868
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -1072,7 +1138,8 @@
             "owner": "Drakulix",
             "repo": "cosmic-ext-extra-sessions",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         }
       ],
       "title": "DE Integration"
@@ -1092,8 +1159,9 @@
             "last_commit": "2026-08-21T18:51:41Z",
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27226
-          }
+            "stars": 27247
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         },
         {
           "node_type": "item",
@@ -1107,15 +1175,16 @@
             "last_commit": "2026-08-19T18:08:59Z",
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1425
-          }
+            "stars": 1430
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
         }
       ],
       "title": "Rices and OOTB Setups"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:13:24.030Z",
+    "last_updated": "2026-08-29T00:48:17.169Z",
     "original_repository_info": {
       "archived": false,
       "id": 988224878,
@@ -1123,7 +1192,7 @@
       "last_commit": "2026-08-19T18:08:59Z",
       "owner": "niri-wm",
       "repo": "awesome-niri",
-      "stars": 1425
+      "stars": 1430
     },
     "original_repository_sha": "946bc74bb8606bbe2958a0b1722ed90693a6f231",
     "enhanced_repository": "enhansome/enhansome-niri",
