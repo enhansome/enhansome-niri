@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "heyoeyo",
                 "repo": "niri_tweaks",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "niri"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 5,
                 "owner": "Asthestarsfalll",
                 "repo": "piri",
-                "stars": 92,
+                "stars": 94,
                 "topics": [
                   "desktop",
                   "extension",
@@ -165,7 +165,7 @@
                 "open_issues": 10,
                 "owner": "Vigintillionn",
                 "repo": "niri-sidebar",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "niri",
                   "sidebar"
@@ -214,7 +214,7 @@
                 "open_issues": 11,
                 "owner": "MintyDoggo",
                 "repo": "miri",
-                "stars": 104,
+                "stars": 106,
                 "topics": [
                   "extension",
                   "niri",
@@ -240,7 +240,7 @@
                 "open_issues": 1,
                 "owner": "probeldev",
                 "repo": "niri-float-sticky",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "niri"
                 ]
@@ -556,11 +556,13 @@
                 "open_issues": 6,
                 "owner": "sandwichfarm",
                 "repo": "hyprlax",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "144hz",
                   "hyprland",
+                  "hyprland-arch",
                   "hyprland-rice",
+                  "hyprland-theme",
                   "niri",
                   "niri-rice",
                   "parallax",
@@ -625,7 +627,7 @@
                 "open_issues": 1,
                 "owner": "PandorasFox",
                 "repo": "pandora",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
@@ -675,11 +677,11 @@
                 "id": 1063249416,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-15T12:55:00Z",
+                "last_commit": "2026-09-05T16:55:52Z",
                 "open_issues": 5,
                 "owner": "saltnpepper97",
                 "repo": "stasis",
-                "stars": 179,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
@@ -749,6 +751,37 @@
             },
             {
               "node_type": "item",
+              "title": "NASW",
+              "description": "Automatically switch audio based on active windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PipeWire Switcher - Automatically switch audio output based on active windows",
+                "homepage": null,
+                "id": 1111308786,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-03-08T18:02:56Z",
+                "open_issues": 0,
+                "owner": "ledati16",
+                "repo": "pwsw",
+                "stars": 20,
+                "topics": [
+                  "daemon",
+                  "linux",
+                  "notifications",
+                  "pipewire",
+                  "playback-devices",
+                  "ratatui",
+                  "rust",
+                  "sound",
+                  "switch"
+                ]
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
+            },
+            {
+              "node_type": "item",
               "title": "vim-niri-nav",
               "description": "Seamless navigation between niri windows and (neo)vim splits with the same key bindings.",
               "children": [],
@@ -765,37 +798,6 @@
                 "repo": "vim-niri-nav",
                 "stars": 20,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:48:17.169Z"
-            },
-            {
-              "node_type": "item",
-              "title": "NASW",
-              "description": "Automatically switch audio based on active windows.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PipeWire Switcher - Automatically switch audio output based on active windows",
-                "homepage": null,
-                "id": 1111308786,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-03-08T18:02:56Z",
-                "open_issues": 0,
-                "owner": "ledati16",
-                "repo": "pwsw",
-                "stars": 19,
-                "topics": [
-                  "daemon",
-                  "linux",
-                  "notifications",
-                  "pipewire",
-                  "playback-devices",
-                  "ratatui",
-                  "rust",
-                  "sound",
-                  "switch"
-                ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
             },
@@ -868,7 +870,7 @@
                 "open_issues": 1,
                 "owner": "jfreed-dev",
                 "repo": "niri-screensaver",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "ascii-art",
                   "niri",
@@ -962,7 +964,7 @@
                 "open_issues": 4,
                 "owner": "srinivasr",
                 "repo": "nirimod",
-                "stars": 398,
+                "stars": 403,
                 "topics": [
                   "configurator",
                   "gui",
@@ -986,11 +988,11 @@
                 "id": 1102334650,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-07-18T17:08:59Z",
+                "last_commit": "2026-09-05T14:44:20Z",
                 "open_issues": 2,
                 "owner": "stefonarch",
                 "repo": "niri-settings",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
@@ -1034,7 +1036,7 @@
                 "id": 1139214883,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-01T16:22:25Z",
+                "last_commit": "2026-09-05T09:20:38Z",
                 "open_issues": 0,
                 "owner": "franzos",
                 "repo": "arbtt-capture-wl",
@@ -1097,7 +1099,7 @@
             "open_issues": 0,
             "owner": "Xansidev",
             "repo": "nirimation",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "linux",
               "niri",
@@ -1152,10 +1154,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-27T20:37:29Z",
-            "open_issues": 725,
+            "open_issues": 727,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11910,
+            "stars": 11917,
             "topics": [
               "bar",
               "gtk",
@@ -1184,7 +1186,7 @@
             "open_issues": 122,
             "owner": "JakeStanger",
             "repo": "ironbar",
-            "stars": 1449,
+            "stars": 1450,
             "topics": [
               "bar",
               "desktop",
@@ -1214,11 +1216,11 @@
             "id": 662689471,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T07:45:37Z",
-            "open_issues": 91,
+            "last_commit": "2026-09-05T17:17:43Z",
+            "open_issues": 93,
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1087,
+            "stars": 1089,
             "topics": [
               "bar",
               "hyprland",
@@ -1245,7 +1247,7 @@
             "id": 834792716,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-03T06:43:17Z",
+            "last_commit": "2026-09-05T07:06:36Z",
             "open_issues": 66,
             "owner": "ignis-sh",
             "repo": "ignis",
@@ -1490,11 +1492,11 @@
             "id": 1017945204,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:43:05Z",
-            "open_issues": 352,
+            "last_commit": "2026-09-05T18:26:14Z",
+            "open_issues": 350,
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 10200,
+            "stars": 10258,
             "topics": [
               "hyprland",
               "linux",
@@ -1517,11 +1519,11 @@
             "id": 1017466877,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:11:06Z",
-            "open_issues": 411,
+            "last_commit": "2026-09-05T16:26:31Z",
+            "open_issues": 422,
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7914,
+            "stars": 7929,
             "topics": [
               "dwl",
               "go",
@@ -1550,11 +1552,11 @@
             "id": 1102221632,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T18:04:40Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-05T08:27:35Z",
+            "open_issues": 8,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1558,
+            "stars": 1572,
             "topics": [
               "dotfiles",
               "linux",
@@ -1581,7 +1583,7 @@
             "open_issues": 13,
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 701,
+            "stars": 702,
             "topics": [
               "gtk4",
               "hyprland",
@@ -1613,7 +1615,7 @@
             "open_issues": 15,
             "owner": "Sinomor",
             "repo": "delta-shell",
-            "stars": 208,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
@@ -1857,10 +1859,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-08-21T18:51:41Z",
-            "open_issues": 482,
+            "open_issues": 481,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27442,
+            "stars": 27468,
             "topics": [
               "rust",
               "smithay",
@@ -1887,7 +1889,7 @@
             "open_issues": 1,
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1459,
+            "stars": 1461,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1902,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:13:03.004Z",
+    "last_updated": "2026-09-05T18:40:19.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
@@ -1914,7 +1916,7 @@
       "open_issues": 1,
       "owner": "niri-wm",
       "repo": "awesome-niri",
-      "stars": 1459,
+      "stars": 1461,
       "topics": [
         "awesome",
         "awesome-list",
