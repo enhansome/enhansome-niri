@@ -17,11 +17,11 @@
                 "id": 1055667441,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-01T14:27:17Z",
+                "last_commit": "2026-09-07T19:02:51Z",
                 "open_issues": 4,
                 "owner": "heyoeyo",
                 "repo": "niri_tweaks",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "niri"
                 ]
@@ -214,7 +214,7 @@
                 "open_issues": 11,
                 "owner": "MintyDoggo",
                 "repo": "miri",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "extension",
                   "niri",
@@ -263,7 +263,7 @@
                 "open_issues": 3,
                 "owner": "argosnothing",
                 "repo": "niri-scratchpad-rs",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "niri",
                   "nix",
@@ -307,7 +307,7 @@
                 "id": 1183707972,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T08:41:24Z",
+                "last_commit": "2026-09-07T06:48:27Z",
                 "open_issues": 1,
                 "owner": "Antiz96",
                 "repo": "oniri",
@@ -435,7 +435,7 @@
                 "open_issues": 2,
                 "owner": "t1ktakdev",
                 "repo": "niri-pip",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "inir",
                   "linux",
@@ -556,7 +556,7 @@
                 "open_issues": 6,
                 "owner": "sandwichfarm",
                 "repo": "hyprlax",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "144hz",
                   "hyprland",
@@ -591,7 +591,7 @@
                 "open_issues": 16,
                 "owner": "YangYuS8",
                 "repo": "lwe",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "appimage",
                   "aur",
@@ -655,7 +655,7 @@
                 "open_issues": 73,
                 "owner": "anyrun-org",
                 "repo": "anyrun",
-                "stars": 1299,
+                "stars": 1300,
                 "topics": [
                   "gtk",
                   "launcher",
@@ -677,7 +677,7 @@
                 "id": 1063249416,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T13:33:12Z",
+                "last_commit": "2026-09-06T21:04:02Z",
                 "open_issues": 3,
                 "owner": "saltnpepper97",
                 "repo": "stasis",
@@ -830,32 +830,6 @@
             },
             {
               "node_type": "item",
-              "title": "kunai",
-              "description": "Automatically switch keyboard layouts based on which physical keyboard is being used.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightweight daemon for niri to setup keyboard layout detection for multi layout and multi keyboard users",
-                "homepage": null,
-                "id": 1141294103,
-                "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-21T16:43:07Z",
-                "open_issues": 1,
-                "owner": "mikkurogue",
-                "repo": "kunai",
-                "stars": 5,
-                "topics": [
-                  "daemon",
-                  "keyboard-layout",
-                  "niri",
-                  "rust"
-                ]
-              },
-              "first_seen": "2026-08-29T00:48:17.169Z"
-            },
-            {
-              "node_type": "item",
               "title": "niri-screensaver",
               "description": "Idle-aware terminal screensaver for niri, driven by TerminalTextEffects, with an optional Noctalia plugin for IdleService integration.",
               "children": [],
@@ -870,7 +844,7 @@
                 "open_issues": 1,
                 "owner": "jfreed-dev",
                 "repo": "niri-screensaver",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "ascii-art",
                   "niri",
@@ -880,6 +854,32 @@
                   "terminal",
                   "terminaltexteffects",
                   "wayland"
+                ]
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
+            },
+            {
+              "node_type": "item",
+              "title": "kunai",
+              "description": "Automatically switch keyboard layouts based on which physical keyboard is being used.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight daemon for niri to setup keyboard layout detection for multi layout and multi keyboard users",
+                "homepage": null,
+                "id": 1141294103,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-07T18:24:38Z",
+                "open_issues": 2,
+                "owner": "mikkurogue",
+                "repo": "kunai",
+                "stars": 5,
+                "topics": [
+                  "daemon",
+                  "keyboard-layout",
+                  "niri",
+                  "rust"
                 ]
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
@@ -964,7 +964,7 @@
                 "open_issues": 4,
                 "owner": "srinivasr",
                 "repo": "nirimod",
-                "stars": 404,
+                "stars": 406,
                 "topics": [
                   "configurator",
                   "gui",
@@ -992,7 +992,7 @@
                 "open_issues": 2,
                 "owner": "stefonarch",
                 "repo": "niri-settings",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
@@ -1154,10 +1154,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-27T20:37:29Z",
-            "open_issues": 728,
+            "open_issues": 730,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11924,
+            "stars": 11930,
             "topics": [
               "bar",
               "gtk",
@@ -1182,7 +1182,7 @@
             "id": 524500186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T07:59:18Z",
+            "last_commit": "2026-09-07T15:34:18Z",
             "open_issues": 122,
             "owner": "JakeStanger",
             "repo": "ironbar",
@@ -1217,10 +1217,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-05T17:17:43Z",
-            "open_issues": 93,
+            "open_issues": 96,
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "bar",
               "hyprland",
@@ -1247,8 +1247,8 @@
             "id": 834792716,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-06T18:27:43Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-06T18:44:47Z",
+            "open_issues": 67,
             "owner": "ignis-sh",
             "repo": "ignis",
             "stars": 686,
@@ -1281,7 +1281,7 @@
             "open_issues": 3,
             "owner": "prankstr",
             "repo": "vibepanel",
-            "stars": 166,
+            "stars": 168,
             "topics": [
               "bar",
               "gtk",
@@ -1492,11 +1492,11 @@
             "id": 1017945204,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-06T02:11:53Z",
-            "open_issues": 369,
+            "last_commit": "2026-09-07T17:06:21Z",
+            "open_issues": 382,
             "owner": "noctalia-dev",
             "repo": "noctalia",
-            "stars": 10295,
+            "stars": 10351,
             "topics": [
               "hyprland",
               "linux",
@@ -1519,11 +1519,11 @@
             "id": 1017466877,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-06T17:54:20Z",
-            "open_issues": 437,
+            "last_commit": "2026-09-07T17:51:23Z",
+            "open_issues": 443,
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 7956,
+            "stars": 7977,
             "topics": [
               "dwl",
               "go",
@@ -1552,11 +1552,11 @@
             "id": 1102221632,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T08:55:53Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-06T23:57:43Z",
+            "open_issues": 10,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1578,
+            "stars": 1587,
             "topics": [
               "dotfiles",
               "linux",
@@ -1583,7 +1583,7 @@
             "open_issues": 13,
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "gtk4",
               "hyprland",
@@ -1615,7 +1615,7 @@
             "open_issues": 15,
             "owner": "Sinomor",
             "repo": "delta-shell",
-            "stars": 209,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
@@ -1636,7 +1636,7 @@
             "open_issues": 2,
             "owner": "andre-brandao",
             "repo": "gpui-shell",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "hyprland",
               "niri",
@@ -1859,10 +1859,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-08-21T18:51:41Z",
-            "open_issues": 482,
+            "open_issues": 485,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27505,
+            "stars": 27548,
             "topics": [
               "rust",
               "smithay",
@@ -1889,7 +1889,7 @@
             "open_issues": 1,
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1462,
+            "stars": 1466,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:44:30.420Z",
+    "last_updated": "2026-09-07T20:16:52.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
@@ -1916,7 +1916,7 @@
       "open_issues": 1,
       "owner": "niri-wm",
       "repo": "awesome-niri",
-      "stars": 1462,
+      "stars": 1466,
       "topics": [
         "awesome",
         "awesome-list",
