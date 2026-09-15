@@ -135,7 +135,7 @@
                 "open_issues": 1,
                 "owner": "Zerodya",
                 "repo": "wl-freeze",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "games",
                   "hyprland",
@@ -307,7 +307,7 @@
                 "id": 1183707972,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T06:40:22Z",
+                "last_commit": "2026-09-15T08:15:21Z",
                 "open_issues": 1,
                 "owner": "Antiz96",
                 "repo": "oniri",
@@ -381,8 +381,8 @@
                 "id": 1108821174,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-09T15:08:08Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-15T18:14:30Z",
+                "open_issues": 5,
                 "owner": "alexandergknoll",
                 "repo": "nirimap",
                 "stars": 26,
@@ -470,7 +470,7 @@
                 "open_issues": 3,
                 "owner": "MTeaHead",
                 "repo": "niri-session-manager",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "niri",
                   "nixos-flake",
@@ -591,7 +591,7 @@
                 "open_issues": 16,
                 "owner": "YangYuS8",
                 "repo": "lwe",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "appimage",
                   "aur",
@@ -655,7 +655,7 @@
                 "open_issues": 73,
                 "owner": "anyrun-org",
                 "repo": "anyrun",
-                "stars": 1305,
+                "stars": 1306,
                 "topics": [
                   "gtk",
                   "launcher",
@@ -1125,7 +1125,7 @@
             "open_issues": 0,
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 232,
+            "stars": 231,
             "topics": [
               "linux",
               "niri",
@@ -1154,10 +1154,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-14T12:56:51Z",
-            "open_issues": 742,
+            "open_issues": 743,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11957,
+            "stars": 11960,
             "topics": [
               "bar",
               "gtk",
@@ -1182,11 +1182,11 @@
             "id": 524500186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:54:57Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-15T07:59:39Z",
+            "open_issues": 124,
             "owner": "JakeStanger",
             "repo": "ironbar",
-            "stars": 1462,
+            "stars": 1463,
             "topics": [
               "bar",
               "desktop",
@@ -1217,10 +1217,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-05T17:17:43Z",
-            "open_issues": 102,
+            "open_issues": 105,
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1108,
+            "stars": 1109,
             "topics": [
               "bar",
               "hyprland",
@@ -1247,8 +1247,8 @@
             "id": 834792716,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-14T03:43:16Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-15T13:17:59Z",
+            "open_issues": 66,
             "owner": "ignis-sh",
             "repo": "ignis",
             "stars": 688,
@@ -1278,7 +1278,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-12T10:02:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "prankstr",
             "repo": "vibepanel",
             "stars": 172,
@@ -1337,7 +1337,7 @@
             "open_issues": 24,
             "owner": "MaxVerevkin",
             "repo": "i3bar-river",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "hyprland",
               "i3bar",
@@ -1482,33 +1482,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Noctalia",
-          "description": "A sleek and minimal desktop shell built with Quickshell.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A sleek, customizable desktop shell crafted for Wayland.",
-            "homepage": "https://docs.noctalia.dev",
-            "id": 1017945204,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-09-14T13:03:02Z",
-            "open_issues": 416,
-            "owner": "noctalia-dev",
-            "repo": "noctalia",
-            "stars": 10583,
-            "topics": [
-              "hyprland",
-              "linux",
-              "niri",
-              "noctalia",
-              "rice"
-            ]
-          },
-          "first_seen": "2026-08-29T00:48:17.169Z"
-        },
-        {
-          "node_type": "item",
           "title": "DankMaterialShell",
           "description": "Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.",
           "children": [],
@@ -1519,11 +1492,11 @@
             "id": 1017466877,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-14T18:31:41Z",
-            "open_issues": 474,
+            "last_commit": "2026-09-15T19:01:06Z",
+            "open_issues": 472,
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 8100,
+            "stars": 8108,
             "topics": [
               "dwl",
               "go",
@@ -1552,11 +1525,11 @@
             "id": 1102221632,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T21:02:25Z",
+            "last_commit": "2026-09-15T04:24:36Z",
             "open_issues": 17,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1621,
+            "stars": 1623,
             "topics": [
               "dotfiles",
               "linux",
@@ -1583,7 +1556,7 @@
             "open_issues": 13,
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 706,
+            "stars": 708,
             "topics": [
               "gtk4",
               "hyprland",
@@ -1738,7 +1711,7 @@
             "id": 1021088367,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-14T12:16:03Z",
+            "last_commit": "2026-09-15T11:25:11Z",
             "open_issues": 1,
             "owner": "alex-oleshkevich",
             "repo": "glimpse",
@@ -1784,6 +1757,27 @@
             ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Noctalia",
+          "description": "A sleek and minimal desktop shell built with Quickshell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A sleek, customizable desktop shell crafted for Wayland.",
+            "homepage": "https://docs.noctalia.dev",
+            "id": 1371972349,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-09-15T19:47:52Z",
+            "open_issues": 0,
+            "owner": "Ly-sec",
+            "repo": "noctalia-freebsd",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-15T19:55:12.090Z"
         }
       ],
       "title": "Custom Shells"
@@ -1858,11 +1852,11 @@
             "id": 676934005,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T18:59:01Z",
-            "open_issues": 477,
+            "last_commit": "2026-09-15T18:53:58Z",
+            "open_issues": 481,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27715,
+            "stars": 27746,
             "topics": [
               "rust",
               "smithay",
@@ -1889,7 +1883,7 @@
             "open_issues": 1,
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1480,
+            "stars": 1483,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1904,7 +1898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:40:59.644Z",
+    "last_updated": "2026-09-15T19:55:12.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
@@ -1916,7 +1910,7 @@
       "open_issues": 1,
       "owner": "niri-wm",
       "repo": "awesome-niri",
-      "stars": 1480,
+      "stars": 1483,
       "topics": [
         "awesome",
         "awesome-list",
