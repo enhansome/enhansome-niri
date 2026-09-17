@@ -210,7 +210,7 @@
                 "id": 1158300712,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-03T01:16:17Z",
+                "last_commit": "2026-09-17T15:55:24Z",
                 "open_issues": 12,
                 "owner": "MintyDoggo",
                 "repo": "miri",
@@ -840,7 +840,7 @@
                 "id": 1232988988,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T01:34:34Z",
+                "last_commit": "2026-09-17T15:46:13Z",
                 "open_issues": 1,
                 "owner": "jfreed-dev",
                 "repo": "niri-screensaver",
@@ -964,7 +964,7 @@
                 "open_issues": 5,
                 "owner": "srinivasr",
                 "repo": "nirimod",
-                "stars": 420,
+                "stars": 428,
                 "topics": [
                   "configurator",
                   "gui",
@@ -1085,6 +1085,32 @@
       "items": [
         {
           "node_type": "item",
+          "title": "shaders",
+          "description": "A collection of custom shaders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Collection of GLSL shaders for use with Niri",
+            "homepage": null,
+            "id": 1191970341,
+            "language": "GLSL",
+            "license": "MIT",
+            "last_commit": "2026-07-23T13:02:04Z",
+            "open_issues": 0,
+            "owner": "liixini",
+            "repo": "shaders",
+            "stars": 233,
+            "topics": [
+              "linux",
+              "niri",
+              "ricing",
+              "shader"
+            ]
+          },
+          "first_seen": "2026-08-29T00:48:17.169Z"
+        },
+        {
+          "node_type": "item",
           "title": "Nirimation",
           "description": "A host for custom shaders to be used as animations.",
           "children": [],
@@ -1108,32 +1134,6 @@
             ]
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
-        },
-        {
-          "node_type": "item",
-          "title": "shaders",
-          "description": "A collection of custom shaders.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Collection of GLSL shaders for use with Niri",
-            "homepage": null,
-            "id": 1191970341,
-            "language": "GLSL",
-            "license": "MIT",
-            "last_commit": "2026-07-23T13:02:04Z",
-            "open_issues": 0,
-            "owner": "liixini",
-            "repo": "shaders",
-            "stars": 232,
-            "topics": [
-              "linux",
-              "niri",
-              "ricing",
-              "shader"
-            ]
-          },
-          "first_seen": "2026-08-29T00:48:17.169Z"
         }
       ],
       "title": "Custom Shaders"
@@ -1153,11 +1153,11 @@
             "id": 144071425,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:32:23Z",
-            "open_issues": 743,
+            "last_commit": "2026-09-17T06:52:53Z",
+            "open_issues": 744,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11967,
+            "stars": 11968,
             "topics": [
               "bar",
               "gtk",
@@ -1186,7 +1186,7 @@
             "open_issues": 124,
             "owner": "JakeStanger",
             "repo": "ironbar",
-            "stars": 1465,
+            "stars": 1466,
             "topics": [
               "bar",
               "desktop",
@@ -1216,11 +1216,11 @@
             "id": 662689471,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T17:17:43Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-17T19:39:05Z",
+            "open_issues": 104,
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1112,
+            "stars": 1114,
             "topics": [
               "bar",
               "hyprland",
@@ -1277,8 +1277,8 @@
             "id": 1121228209,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-16T09:13:36Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-17T09:21:34Z",
+            "open_issues": 5,
             "owner": "prankstr",
             "repo": "vibepanel",
             "stars": 172,
@@ -1492,11 +1492,11 @@
             "id": 1017466877,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-16T14:06:20Z",
-            "open_issues": 479,
+            "last_commit": "2026-09-17T17:17:30Z",
+            "open_issues": 480,
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 8120,
+            "stars": 8139,
             "topics": [
               "dwl",
               "go",
@@ -1529,7 +1529,7 @@
             "open_issues": 17,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1627,
+            "stars": 1630,
             "topics": [
               "dotfiles",
               "linux",
@@ -1588,7 +1588,7 @@
             "open_issues": 15,
             "owner": "Sinomor",
             "repo": "delta-shell",
-            "stars": 209,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
@@ -1711,7 +1711,7 @@
             "id": 1021088367,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-16T15:21:33Z",
+            "last_commit": "2026-09-17T16:32:10Z",
             "open_issues": 1,
             "owner": "alex-oleshkevich",
             "repo": "glimpse",
@@ -1831,11 +1831,11 @@
             "id": 676934005,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T18:53:58Z",
-            "open_issues": 482,
+            "last_commit": "2026-09-17T14:51:39Z",
+            "open_issues": 485,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 27775,
+            "stars": 27808,
             "topics": [
               "rust",
               "smithay",
@@ -1862,7 +1862,7 @@
             "open_issues": 1,
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1483,
+            "stars": 1484,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1877,7 +1877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:48:20.355Z",
+    "last_updated": "2026-09-17T19:56:18.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
@@ -1889,7 +1889,7 @@
       "open_issues": 1,
       "owner": "niri-wm",
       "repo": "awesome-niri",
-      "stars": 1483,
+      "stars": 1484,
       "topics": [
         "awesome",
         "awesome-list",
