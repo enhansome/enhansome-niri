@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "heyoeyo",
                 "repo": "niri_tweaks",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "niri"
                 ]
@@ -165,7 +165,7 @@
                 "open_issues": 10,
                 "owner": "Vigintillionn",
                 "repo": "niri-sidebar",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "niri",
                   "sidebar"
@@ -214,7 +214,7 @@
                 "open_issues": 13,
                 "owner": "MintyDoggo",
                 "repo": "miri",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "extension",
                   "niri",
@@ -263,7 +263,7 @@
                 "open_issues": 4,
                 "owner": "argosnothing",
                 "repo": "niri-scratchpad-rs",
-                "stars": 90,
+                "stars": 89,
                 "topics": [
                   "niri",
                   "nix",
@@ -655,7 +655,7 @@
                 "open_issues": 72,
                 "owner": "anyrun-org",
                 "repo": "anyrun",
-                "stars": 1309,
+                "stars": 1310,
                 "topics": [
                   "gtk",
                   "launcher",
@@ -765,7 +765,7 @@
                 "open_issues": 0,
                 "owner": "ledati16",
                 "repo": "pwsw",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "daemon",
                   "linux",
@@ -840,7 +840,7 @@
                 "id": 1232988988,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T01:33:37Z",
+                "last_commit": "2026-10-02T01:34:29Z",
                 "open_issues": 1,
                 "owner": "jfreed-dev",
                 "repo": "niri-screensaver",
@@ -964,7 +964,7 @@
                 "open_issues": 7,
                 "owner": "srinivasr",
                 "repo": "nirimod",
-                "stars": 437,
+                "stars": 436,
                 "topics": [
                   "configurator",
                   "gui",
@@ -992,7 +992,7 @@
                 "open_issues": 3,
                 "owner": "stefonarch",
                 "repo": "niri-settings",
-                "stars": 157,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
@@ -1009,11 +1009,11 @@
                 "id": 986978647,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-02T12:55:10Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-02T13:00:25Z",
+                "open_issues": 2,
                 "owner": "probeldev",
                 "repo": "niri-screen-time",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "hyprland",
                   "linux",
@@ -1099,7 +1099,7 @@
             "open_issues": 0,
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "linux",
               "niri",
@@ -1153,11 +1153,11 @@
             "id": 144071425,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-24T19:07:15Z",
-            "open_issues": 753,
+            "last_commit": "2026-10-02T17:12:34Z",
+            "open_issues": 751,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 12016,
+            "stars": 12019,
             "topics": [
               "bar",
               "gtk",
@@ -1216,11 +1216,11 @@
             "id": 662689471,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T19:17:17Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-02T17:21:02Z",
+            "open_issues": 93,
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1128,
+            "stars": 1130,
             "topics": [
               "bar",
               "hyprland",
@@ -1277,7 +1277,7 @@
             "id": 1121228209,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:34:51Z",
+            "last_commit": "2026-10-02T16:30:32Z",
             "open_issues": 4,
             "owner": "prankstr",
             "repo": "vibepanel",
@@ -1398,7 +1398,7 @@
             "open_issues": 0,
             "owner": "adelmonte",
             "repo": "niri_window_buttons",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:17.169Z"
@@ -1419,7 +1419,7 @@
             "open_issues": 5,
             "owner": "calico32",
             "repo": "waybar-niri-windows",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "go",
               "niri",
@@ -1492,11 +1492,11 @@
             "id": 1017466877,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:31:53Z",
-            "open_issues": 515,
+            "last_commit": "2026-10-02T20:52:14Z",
+            "open_issues": 529,
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 8295,
+            "stars": 8308,
             "topics": [
               "dwl",
               "go",
@@ -1525,11 +1525,11 @@
             "id": 1102221632,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T21:37:38Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-02T20:28:55Z",
+            "open_issues": 8,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1723,
+            "stars": 1729,
             "topics": [
               "dotfiles",
               "linux",
@@ -1556,7 +1556,7 @@
             "open_issues": 13,
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 716,
+            "stars": 717,
             "topics": [
               "gtk4",
               "hyprland",
@@ -1636,7 +1636,7 @@
             "open_issues": 1,
             "owner": "imiric",
             "repo": "qml-niri",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "c-plus-plus",
               "c-plus-plus-17",
@@ -1832,10 +1832,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-01T19:54:13Z",
-            "open_issues": 460,
+            "open_issues": 459,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 28104,
+            "stars": 28120,
             "topics": [
               "rust",
               "smithay",
@@ -1862,7 +1862,7 @@
             "open_issues": 2,
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1508,
+            "stars": 1509,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1877,7 +1877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:30:24.352Z",
+    "last_updated": "2026-10-02T21:05:42.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
@@ -1889,7 +1889,7 @@
       "open_issues": 2,
       "owner": "niri-wm",
       "repo": "awesome-niri",
-      "stars": 1508,
+      "stars": 1509,
       "topics": [
         "awesome",
         "awesome-list",
