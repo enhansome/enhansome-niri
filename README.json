@@ -189,7 +189,7 @@
                 "open_issues": 0,
                 "owner": "gvolpe",
                 "repo": "niri-scratchpad",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "niri",
                   "scratchpad",
@@ -677,11 +677,11 @@
                 "id": 1063249416,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T01:18:13Z",
+                "last_commit": "2026-10-03T02:16:51Z",
                 "open_issues": 4,
                 "owner": "saltnpepper97",
                 "repo": "stasis",
-                "stars": 181,
+                "stars": 182,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
@@ -964,7 +964,7 @@
                 "open_issues": 7,
                 "owner": "srinivasr",
                 "repo": "nirimod",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "configurator",
                   "gui",
@@ -1157,7 +1157,7 @@
             "open_issues": 751,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 12019,
+            "stars": 12020,
             "topics": [
               "bar",
               "gtk",
@@ -1182,7 +1182,7 @@
             "id": 524500186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T08:37:47Z",
+            "last_commit": "2026-10-02T23:54:20Z",
             "open_issues": 113,
             "owner": "JakeStanger",
             "repo": "ironbar",
@@ -1217,10 +1217,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T17:21:02Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1130,
+            "stars": 1131,
             "topics": [
               "bar",
               "hyprland",
@@ -1492,11 +1492,11 @@
             "id": 1017466877,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:52:14Z",
-            "open_issues": 529,
+            "last_commit": "2026-10-03T03:08:49Z",
+            "open_issues": 524,
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 8308,
+            "stars": 8311,
             "topics": [
               "dwl",
               "go",
@@ -1526,10 +1526,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T20:28:55Z",
-            "open_issues": 8,
+            "open_issues": 6,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1729,
+            "stars": 1734,
             "topics": [
               "dotfiles",
               "linux",
@@ -1835,7 +1835,7 @@
             "open_issues": 459,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 28120,
+            "stars": 28124,
             "topics": [
               "rust",
               "smithay",
@@ -1877,7 +1877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:05:42.308Z",
+    "last_updated": "2026-10-03T04:57:43.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
