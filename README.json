@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "heyoeyo",
                 "repo": "niri_tweaks",
-                "stars": 140,
+                "stars": 139,
                 "topics": [
                   "niri"
                 ]
@@ -214,7 +214,7 @@
                 "open_issues": 13,
                 "owner": "MintyDoggo",
                 "repo": "miri",
-                "stars": 117,
+                "stars": 119,
                 "topics": [
                   "extension",
                   "niri",
@@ -591,7 +591,7 @@
                 "open_issues": 16,
                 "owner": "YangYuS8",
                 "repo": "lwe",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "appimage",
                   "aur",
@@ -1154,10 +1154,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-02T17:12:34Z",
-            "open_issues": 755,
+            "open_issues": 756,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 12033,
+            "stars": 12032,
             "topics": [
               "bar",
               "gtk",
@@ -1492,11 +1492,11 @@
             "id": 1017466877,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:05:32Z",
-            "open_issues": 536,
+            "last_commit": "2026-10-06T07:43:00Z",
+            "open_issues": 534,
             "owner": "AvengeMedia",
             "repo": "DankMaterialShell",
-            "stars": 8342,
+            "stars": 8344,
             "topics": [
               "dwl",
               "go",
@@ -1526,10 +1526,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T05:08:00Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1761,
+            "stars": 1765,
             "topics": [
               "dotfiles",
               "linux",
@@ -1556,7 +1556,7 @@
             "open_issues": 12,
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "gtk4",
               "hyprland",
@@ -1664,7 +1664,7 @@
             "id": 875312616,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-10-05T04:26:42Z",
+            "last_commit": "2026-10-06T10:31:53Z",
             "open_issues": 0,
             "owner": "hashankur",
             "repo": "desktop-shell",
@@ -1835,7 +1835,7 @@
             "open_issues": 460,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 28215,
+            "stars": 28228,
             "topics": [
               "rust",
               "smithay",
@@ -1877,7 +1877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:00:23.446Z",
+    "last_updated": "2026-10-06T11:06:29.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
