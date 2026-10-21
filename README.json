@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-01T11:43:46Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "heyoeyo",
                 "repo": "niri_tweaks",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "niri"
                 ]
@@ -165,7 +165,7 @@
                 "open_issues": 10,
                 "owner": "Vigintillionn",
                 "repo": "niri-sidebar",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "niri",
                   "sidebar"
@@ -357,7 +357,7 @@
                 "id": 1035552892,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-14T19:04:29Z",
+                "last_commit": "2026-10-21T00:38:56Z",
                 "open_issues": 0,
                 "owner": "lonerOrz",
                 "repo": "nsticky",
@@ -655,7 +655,7 @@
                 "open_issues": 74,
                 "owner": "anyrun-org",
                 "repo": "anyrun",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": [
                   "gtk",
                   "launcher",
@@ -677,11 +677,11 @@
                 "id": 1063249416,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T23:20:57Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-21T01:36:21Z",
+                "open_issues": 3,
                 "owner": "saltnpepper97",
                 "repo": "stasis",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:48:17.169Z"
@@ -830,6 +830,36 @@
             },
             {
               "node_type": "item",
+              "title": "utsushot",
+              "description": "Supersampled Wayland screenshots via a temporary high-resolution phantom output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Supersampled Wayland screenshots via a temporary high-resolution phantom output",
+                "homepage": null,
+                "id": 1331839342,
+                "language": "Rust",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-12T17:16:12Z",
+                "open_issues": 6,
+                "owner": "xevrion",
+                "repo": "utsushot",
+                "stars": 7,
+                "topics": [
+                  "cli",
+                  "hidpi",
+                  "linux",
+                  "niri",
+                  "rust",
+                  "screenshot",
+                  "supersampling",
+                  "wayland"
+                ]
+              },
+              "first_seen": "2026-08-29T00:48:17.169Z"
+            },
+            {
+              "node_type": "item",
               "title": "niri-screensaver",
               "description": "Idle-aware terminal screensaver for niri, driven by TerminalTextEffects, with an optional Noctalia plugin for IdleService integration.",
               "children": [],
@@ -853,36 +883,6 @@
                   "screensaver",
                   "terminal",
                   "terminaltexteffects",
-                  "wayland"
-                ]
-              },
-              "first_seen": "2026-08-29T00:48:17.169Z"
-            },
-            {
-              "node_type": "item",
-              "title": "utsushot",
-              "description": "Supersampled Wayland screenshots via a temporary high-resolution phantom output.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Supersampled Wayland screenshots via a temporary high-resolution phantom output",
-                "homepage": null,
-                "id": 1331839342,
-                "language": "Rust",
-                "license": "GPL-3.0",
-                "last_commit": "2026-08-12T17:16:12Z",
-                "open_issues": 6,
-                "owner": "xevrion",
-                "repo": "utsushot",
-                "stars": 6,
-                "topics": [
-                  "cli",
-                  "hidpi",
-                  "linux",
-                  "niri",
-                  "rust",
-                  "screenshot",
-                  "supersampling",
                   "wayland"
                 ]
               },
@@ -1099,7 +1099,7 @@
             "open_issues": 0,
             "owner": "liixini",
             "repo": "shaders",
-            "stars": 256,
+            "stars": 258,
             "topics": [
               "linux",
               "niri",
@@ -1125,7 +1125,7 @@
             "open_issues": 0,
             "owner": "Xansidev",
             "repo": "nirimation",
-            "stars": 239,
+            "stars": 241,
             "topics": [
               "linux",
               "niri",
@@ -1154,10 +1154,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-19T21:29:29Z",
-            "open_issues": 747,
+            "open_issues": 750,
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 12092,
+            "stars": 12099,
             "topics": [
               "bar",
               "gtk",
@@ -1182,8 +1182,8 @@
             "id": 524500186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-19T21:29:08Z",
-            "open_issues": 110,
+            "last_commit": "2026-10-21T20:05:25Z",
+            "open_issues": 108,
             "owner": "JakeStanger",
             "repo": "ironbar",
             "stars": 1491,
@@ -1216,11 +1216,11 @@
             "id": 662689471,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T16:04:27Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-21T20:10:53Z",
+            "open_issues": 77,
             "owner": "MalpenZibo",
             "repo": "ashell",
-            "stars": 1152,
+            "stars": 1155,
             "topics": [
               "bar",
               "hyprland",
@@ -1251,7 +1251,7 @@
             "open_issues": 68,
             "owner": "ignis-sh",
             "repo": "ignis",
-            "stars": 693,
+            "stars": 694,
             "topics": [
               "desktop-environment",
               "gtk4",
@@ -1277,11 +1277,11 @@
             "id": 1121228209,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-20T14:28:26Z",
+            "last_commit": "2026-10-21T20:02:18Z",
             "open_issues": 6,
             "owner": "prankstr",
             "repo": "vibepanel",
-            "stars": 183,
+            "stars": 182,
             "topics": [
               "bar",
               "gtk",
@@ -1492,11 +1492,11 @@
             "id": 1017466877,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-10-20T19:25:05Z",
-            "open_issues": 488,
+            "last_commit": "2026-10-21T19:50:06Z",
+            "open_issues": 490,
             "owner": "duxlabs-dev",
             "repo": "dux-shell",
-            "stars": 8490,
+            "stars": 8519,
             "topics": [
               "dwl",
               "go",
@@ -1529,7 +1529,7 @@
             "open_issues": 16,
             "owner": "snowarch",
             "repo": "iNiR",
-            "stars": 1852,
+            "stars": 1856,
             "topics": [
               "dotfiles",
               "linux",
@@ -1556,7 +1556,7 @@
             "open_issues": 12,
             "owner": "debuggyo",
             "repo": "Exo",
-            "stars": 730,
+            "stars": 731,
             "topics": [
               "gtk4",
               "hyprland",
@@ -1711,8 +1711,8 @@
             "id": 1021088367,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T17:43:45Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-21T15:04:45Z",
+            "open_issues": 3,
             "owner": "alex-oleshkevich",
             "repo": "glimpse",
             "stars": 25,
@@ -1780,7 +1780,7 @@
             "open_issues": 173,
             "owner": "lxqt",
             "repo": "lxqt",
-            "stars": 1883,
+            "stars": 1884,
             "topics": [
               "desktop-environment",
               "linux",
@@ -1835,7 +1835,7 @@
             "open_issues": 436,
             "owner": "niri-wm",
             "repo": "niri",
-            "stars": 28553,
+            "stars": 28575,
             "topics": [
               "rust",
               "smithay",
@@ -1859,10 +1859,10 @@
             "language": "Nix",
             "license": "CC0-1.0",
             "last_commit": "2026-08-19T18:08:59Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "niri-wm",
             "repo": "awesome-niri",
-            "stars": 1530,
+            "stars": 1532,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1877,7 +1877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:13:05.121Z",
+    "last_updated": "2026-10-21T20:24:41.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for niri related projects [Maintainer - @Vortriz]",
@@ -1886,10 +1886,10 @@
       "language": "Nix",
       "license": "CC0-1.0",
       "last_commit": "2026-08-19T18:08:59Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "niri-wm",
       "repo": "awesome-niri",
-      "stars": 1530,
+      "stars": 1532,
       "topics": [
         "awesome",
         "awesome-list",
