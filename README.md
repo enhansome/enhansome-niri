@@ -5,7 +5,7 @@
 <div align=center><img width="1058" height="595" alt="Awesome X niri" src="banner.png" /></div>
 <div align=center><img src="https://awesome.re/badge-flat.svg" /></div>
 
-[niri](https://github.com/niri-wm/niri) ⭐ 29,151 | 🐛 410 | 🌐 Rust | 📅 2026-11-19 is a scrollable-tiling Wayland compositor. This is a curated list of resources related to niri.
+[niri](https://github.com/niri-wm/niri) ⭐ 29,165 | 🐛 410 | 🌐 Rust | 📅 2026-11-20 is a scrollable-tiling Wayland compositor. This is a curated list of resources related to niri.
 
 *Please read the [contributing guidelines](CONTRIBUTING.md) before contributing to this list.*
 
@@ -39,7 +39,7 @@
 ## Packages
 
 * [Community Packages](https://repology.org/project/niri/packages) - A list of community maintained packages for niri.
-* [niri-flake](https://github.com/epireyn/niri-flake) ⭐ 130 | 🐛 5 | 🌐 Nix | 📅 2026-11-19 - A Nix flake with cached binary builds and batteries-included modules (actively maintained fork of [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) ⭐ 984 | 🐛 77 | 🌐 Nix | 📅 2026-11-19).
+* [niri-flake](https://github.com/epireyn/niri-flake) ⭐ 130 | 🐛 4 | 🌐 Nix | 📅 2026-11-20 - A Nix flake with cached binary builds and batteries-included modules (actively maintained fork of [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) ⭐ 985 | 🐛 77 | 🌐 Nix | 📅 2026-11-20).
 * [niri-nix](https://codeberg.org/bananad3v/niri-nix) - A Nix flake with cached binary builds and freeform config.
 
 ## Tools
@@ -61,10 +61,10 @@ For utilities that assist in managing windows and workspaces.
 * [wl-freeze](https://github.com/Zerodya/wl-freeze) ⭐ 254 | 🐛 0 | 🌐 Shell | 📅 2026-11-18 - Utility to suspend a game process and other programs.
 * [niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) ⭐ 192 | 🐛 10 | 🌐 Rust | 📅 2026-05-16 - Manage windows using a floating sidebar.
 * [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-03-22 - Scratchpad support.
-* [miri](https://github.com/MintyDoggo/miri) ⭐ 126 | 🐛 14 | 🌐 Rust | 📅 2026-11-04 - A niri extension adding per-workspace tiling layouts, such as Master Stack, similar to hyprland or mangowm.
+* [miri](https://github.com/MintyDoggo/miri) ⭐ 127 | 🐛 14 | 🌐 Rust | 📅 2026-11-04 - A niri extension adding per-workspace tiling layouts, such as Master Stack, similar to hyprland or mangowm.
 * [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) ⭐ 121 | 🐛 0 | 🌐 Go | 📅 2026-09-06 - A utility to make floating windows visible across all workspaces — similar to "sticky windows" in other compositors.
 * [niri-scratchpad-rs](https://github.com/argosnothing/niri-scratchpad-rs) ⭐ 97 | 🐛 4 | 🌐 Rust | 📅 2026-04-09 - Dynamic scratchpads.
-* [oniri](https://github.com/Antiz96/oniri) ⭐ 65 | 🐛 1 | 🌐 Rust | 📅 2026-11-17 - A tool that automatically maximizes the only window in a workspace.
+* [oniri](https://github.com/Antiz96/oniri) ⭐ 66 | 🐛 1 | 🌐 Rust | 📅 2026-11-20 - A tool that automatically maximizes the only window in a workspace.
 * [ndrop](https://github.com/Schweber/ndrop) ⭐ 53 | 🐛 1 | 🌐 Shell | 📅 2026-01-24 - Emulate tdrop.
 * [nfsm](https://github.com/gvolpe/nfsm) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-05-23 - Fullscreen manager.
 * [nsticky](https://github.com/lonerOrz/nsticky) ⭐ 45 | 🐛 0 | 🌐 Rust | 📅 2026-11-18 - A utility to make windows visible across all workspaces.
@@ -95,14 +95,14 @@ For tools that integrate niri with other system components or automate tasks.
 
 * [Anyrun](https://github.com/anyrun-org/anyrun) ⭐ 1,319 | 🐛 75 | 🌐 Rust | 📅 2026-11-11 - A Wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) ⭐ 1,319 | 🐛 75 | 🌐 Rust | 📅 2026-11-11 plugin.
 * [Stasis](https://github.com/saltnpepper97/stasis) ⭐ 193 | 🐛 3 | 🌐 Rust | 📅 2026-11-14 - A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.
-* [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) ⭐ 62 | 🐛 1 | 🌐 Rust | 📅 2026-11-19 - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
+* [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) ⭐ 63 | 🐛 1 | 🌐 Rust | 📅 2026-11-19 - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
 * [nirimon](https://github.com/stepbrobd/nirimon) ⭐ 31 | 🐛 0 | 🌐 Go | 📅 2026-11-12 - A TUI monitor configuration tool with visual layout, drag-and-drop, and profile management (profile schema compliant with hyprmon).
 * [NASW](https://github.com/ledati16/nasw) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2026-03-08 - Automatically switch audio based on active windows.
 * [system76-scheduler-niri](https://github.com/Kirottu/system76-scheduler-niri) ⭐ 22 | 🐛 1 | 🌐 Nix | 📅 2026-04-25 - A simple daemon to update the foreground process of [system76-scheduler](https://github.com/pop-os/system76-scheduler) ⭐ 644 | 🐛 22 | 🌐 Rust | 📅 2026-11-18 based on the focused window.
 * [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) ⭐ 22 | 🐛 3 | 🌐 Vim Script | 📅 2026-06-19 - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 * [nirilayout](https://github.com/calico32/nirilayout) ⭐ 14 | 🐛 3 | 🌐 Go | 📅 2026-06-09 - Quickly switch output configuration between different layouts.
 * [utsushot](https://github.com/xevrion/utsushot) ⭐ 9 | 🐛 6 | 🌐 Rust | 📅 2026-08-12 - Supersampled Wayland screenshots via a temporary high-resolution phantom output.
-* [kunai](https://github.com/mikkurogue/kunai) ⭐ 6 | 🐛 3 | 🌐 Rust | 📅 2026-11-18 - Automatically switch keyboard layouts based on which physical keyboard is being used.
+* [kunai](https://github.com/mikkurogue/kunai) ⭐ 6 | 🐛 2 | 🌐 Rust | 📅 2026-11-20 - Automatically switch keyboard layouts based on which physical keyboard is being used.
 * [niri-screensaver](https://github.com/jfreed-dev/niri-screensaver) ⭐ 6 | 🐛 2 | 🌐 Shell | 📅 2026-11-13 - Idle-aware terminal screensaver for niri, driven by TerminalTextEffects, with an optional Noctalia plugin for IdleService integration.
 * [niriSKL.nvim](https://github.com/MahouShoujoMivutilde/niriSKL.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-06-27 - A Neovim plugin that maintains your latin keyboard layout of choice for NORMAL mode and restores the layout you had when in INSERT mode.
 * [niri-autoselect-portal](https://codeberg.org/debugloop/niri-autoselect-portal) - Always autoselect the dynamic cast target without any prompts.
@@ -118,14 +118,14 @@ For tools that integrate niri with other system components or automate tasks.
 
 ## Custom Shaders
 
-* [shaders](https://github.com/liixini/shaders) ⭐ 267 | 🐛 1 | 🌐 GLSL | 📅 2026-10-18 - A collection of custom shaders.
+* [shaders](https://github.com/liixini/shaders) ⭐ 268 | 🐛 1 | 🌐 GLSL | 📅 2026-10-18 - A collection of custom shaders.
 * [Nirimation](https://github.com/XansiVA/nirimation) ⭐ 243 | 🐛 1 | 🌐 Python | 📅 2026-07-20 - A host for custom shaders to be used as animations.
 
 ## Bars and Widgets
 
-* [Waybar](https://github.com/Alexays/Waybar) ⭐ 12,176 | 🐛 756 | 🌐 C++ | 📅 2026-11-18 - Highly customizable Wayland bar based on GTK.
-* [Ironbar](https://github.com/JakeStanger/ironbar) ⭐ 1,522 | 🐛 107 | 🌐 Rust | 📅 2026-11-18 - A customisable Wayland GTK bar written in Rust.
-* [ashell](https://github.com/MalpenZibo/ashell) ⭐ 1,175 | 🐛 58 | 🌐 Rust | 📅 2026-11-19 - A ready to go Wayland status bar.
+* [Waybar](https://github.com/Alexays/Waybar) ⭐ 12,178 | 🐛 759 | 🌐 C++ | 📅 2026-11-18 - Highly customizable Wayland bar based on GTK.
+* [Ironbar](https://github.com/JakeStanger/ironbar) ⭐ 1,522 | 🐛 109 | 🌐 Rust | 📅 2026-11-18 - A customisable Wayland GTK bar written in Rust.
+* [ashell](https://github.com/MalpenZibo/ashell) ⭐ 1,175 | 🐛 57 | 🌐 Rust | 📅 2026-11-20 - A ready to go Wayland status bar.
 * [Ignis](https://github.com/linkfrg/ignis) ⭐ 695 | 🐛 69 | 🌐 Python | 📅 2026-11-19 - A widget framework for building desktop shells, written and configurable in Python.
 * [vibepanel](https://github.com/prankstr/vibepanel) ⭐ 187 | 🐛 9 | 🌐 Rust | 📅 2026-11-19 - A GTK4 panel for Wayland with integrated notifications, OSD, and quick settings.
 * [Niri Taskbar](https://github.com/LawnGnome/niri-taskbar) ⭐ 154 | 🐛 30 | 🌐 Rust | 📅 2025-12-04 - Provides a Waybar taskbar module for niri.
@@ -138,22 +138,22 @@ For tools that integrate niri with other system components or automate tasks.
 
 ## Custom Shells
 
-* [Noctalia](https://github.com/noctalia-dev/noctalia) ⭐ 12,132 | 🐛 501 | 🌐 C++ | 📅 2026-11-19 - A sleek, customizable desktop shell crafted for Wayland.
-* [Dux Modular Shell](https://github.com/duxlabs-dev/dux-shell) ⭐ 9,140 | 🐛 405 | 🌐 QML | 📅 2026-11-19 - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
-* [iNiR](https://github.com/snowarch/iNiR) ⭐ 1,975 | 🐛 4 | 🌐 QML | 📅 2026-11-15 - [end-4's quickshell config](https://github.com/end-4/dots-hyprland) ⭐ 16,678 | 🐛 722 | 🌐 QML | 📅 2026-11-15 modified to work with niri.
+* [Noctalia](https://github.com/noctalia-dev/noctalia) ⭐ 12,154 | 🐛 506 | 🌐 C++ | 📅 2026-11-20 - A sleek, customizable desktop shell crafted for Wayland.
+* [Dux Modular Shell](https://github.com/duxlabs-dev/dux-shell) ⭐ 9,152 | 🐛 413 | 🌐 QML | 📅 2026-11-20 - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
+* [iNiR](https://github.com/snowarch/iNiR) ⭐ 1,978 | 🐛 4 | 🌐 QML | 📅 2026-11-15 - [end-4's quickshell config](https://github.com/end-4/dots-hyprland) ⭐ 16,685 | 🐛 722 | 🌐 QML | 📅 2026-11-15 modified to work with niri.
 * [Exo](https://github.com/debuggyo/Exo) ⚠️ Archived - A Material 3 inspired desktop shell created with Ignis.
 * [Delta Shell](https://github.com/Sinomor/delta-shell) ⭐ 216 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-17 - A desktop shell based on AGS with many features.
-* [GPUi Shell](https://github.com/andre-brandao/gpui-shell) ⭐ 180 | 🐛 7 | 🌐 Rust | 📅 2026-11-05 - A GPUI based shell written in Rust.
+* [GPUi Shell](https://github.com/andre-brandao/gpui-shell) ⭐ 181 | 🐛 7 | 🌐 Rust | 📅 2026-11-05 - A GPUI based shell written in Rust.
 * [qml-niri](https://github.com/imiric/qml-niri) ⭐ 113 | 🐛 0 | 🌐 C++ | 📅 2026-10-24 - A QML plugin for interacting with niri via its IPC protocol.
 * [desktop-shell](https://github.com/hashankur/desktop-shell) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-18 - Custom AGS shell for Wayland compositors supporting wayland-layer-shell.
-* [Glimpse](https://github.com/alex-oleshkevich/glimpse) ⭐ 34 | 🐛 3 | 🌐 Rust | 📅 2026-11-17 - A niri-first Wayland desktop shell toolkit with a panel, wallpaper, lock screen, night light, and idle management.
+* [Glimpse](https://github.com/alex-oleshkevich/glimpse) ⭐ 35 | 🐛 3 | 🌐 Rust | 📅 2026-11-17 - A niri-first Wayland desktop shell toolkit with a panel, wallpaper, lock screen, night light, and idle management.
 * [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-01-28 - An Ignis based shell.
 * [Niri GTK](https://github.com/sameoldlab/niri-gtk) ⭐ 5 | 🐛 0 | 🌐 Vala | 📅 2026-08-22 - GTK bindings to niri IPC.
 
 ## DE Integration
 
-* [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings) ⭐ 1,889 | 🐛 172 | 🌐 Shell | 📅 2026-11-04, while its modules can also be used standalone in `niri-session`.
-* [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) ⭐ 191 | 🐛 15 | 🌐 Shell | 📅 2025-04-02 - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch) ⭐ 7,042 | 🐛 1,857 | 🌐 Just | 📅 2026-10-20.
+* [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings) ⭐ 1,890 | 🐛 172 | 🌐 Shell | 📅 2026-11-04, while its modules can also be used standalone in `niri-session`.
+* [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) ⭐ 191 | 🐛 15 | 🌐 Shell | 📅 2025-04-02 - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch) ⭐ 7,049 | 🐛 1,859 | 🌐 Just | 📅 2026-10-20.
 
 ## Distro Integration
 
@@ -163,9 +163,9 @@ For tools that integrate niri with other system components or automate tasks.
 
 ## Rices and OOTB Setups
 
-* [Setup Showcase](https://github.com/niri-wm/niri/discussions/325) ⭐ 29,151 | 🐛 410 | 🌐 Rust | 📅 2026-11-19 - A showcase of niri setups, where users can share their configurations and get inspiration from others.
-* [OOTB setups](https://github.com/Vortriz/awesome-niri/discussions/30) ⭐ 1,579 | 🐛 12 | 🌐 Nix | 📅 2026-11-05 - A collection of out-of-the-box niri configurations that can be easily installed to get a fully functional setup quickly.
+* [Setup Showcase](https://github.com/niri-wm/niri/discussions/325) ⭐ 29,165 | 🐛 410 | 🌐 Rust | 📅 2026-11-20 - A showcase of niri setups, where users can share their configurations and get inspiration from others.
+* [OOTB setups](https://github.com/Vortriz/awesome-niri/discussions/30) ⭐ 1,580 | 🐛 12 | 🌐 Nix | 📅 2026-11-05 - A collection of out-of-the-box niri configurations that can be easily installed to get a fully functional setup quickly.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
